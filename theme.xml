@@ -1,0 +1,1195 @@
+<!--
+    RetroDeck for EmulationStation Desktop Edition
+    Author: Stuart Learmonth
+    License: Creative Commons CC-BY-NC-SA
+-->
+
+<theme>
+    <include>./navigationsounds.xml</include>
+    <include>./colors.xml</include>
+    <include>./font.xml</include>
+    <include>./system/metadata/_default.xml</include>
+    <include>./system/custom/metadata/${system.theme}.xml</include>
+    <include>./system/metadata/${system.theme}.xml</include>
+
+    <variables>
+        <spacerimage>./space.png</spacerimage>
+    </variables>
+
+    <aspectRatio name="16:9">
+        <include>./16-9.xml</include>
+    </aspectRatio>
+    <aspectRatio name="4:3">
+        <include>./4-3.xml</include>
+    </aspectRatio>
+
+    <variant name="all">
+        <view name="system, gamelist">
+            <image name="bottom">
+                <pos>0 .875</pos>
+                <size>1 .125</size>
+                <path>./core/retrodeck/bottom.png</path>
+                <color>${sysColor}</color>
+                <zIndex>48</zIndex>
+            </image>
+            <image name="top">
+                <pos>0 0</pos>
+                <size>1 .125</size>
+                <path>./core/retrodeck/top.png</path>
+                <color>${sysColor}</color>
+                <zIndex>48</zIndex>
+            </image>
+            <image name="consolegame">
+                <pos>0.8 0.35</pos>
+                <maxSize>0.3 0.1</maxSize>
+                <origin>0 0</origin>
+                <opacity>0.15</opacity>
+                <path>./system/logos/system-logo-white/${system.theme}.svg</path>
+                <color>${primaryColor}</color>
+                <colorEnd>${secondaryColor}</colorEnd>
+                <zIndex>13</zIndex>
+            </image>
+            <image name="consolegame3">
+                <pos>-.03 0.11</pos>
+                <maxSize>0.45 0.1</maxSize>
+                <origin>0 0</origin>
+                <opacity>0.05</opacity>
+                <path>./system/logos/system-logo-white/${system.theme}.svg</path>
+                <color>${primaryColor}</color>
+                <colorEnd>${secondaryColor}</colorEnd>
+                <zIndex>15</zIndex>
+            </image>
+            <image name="consolegame4">
+                <pos>0.15 0.25</pos>
+                <maxSize>0.4 0.15</maxSize>
+                <origin>0 0</origin>
+                <opacity>0.08</opacity>
+                <path>./system/logos/system-logo-white/${system.theme}.svg</path>
+                <color>${primaryColor}</color>
+                <colorEnd>${secondaryColor}</colorEnd>
+                <zIndex>13</zIndex>
+            </image>
+            <image name="consolegame7">
+                <pos>0.42 0.46</pos>
+                <maxSize>0.3 0.1</maxSize>
+                <origin>0 0</origin>
+                <opacity>0.12</opacity>
+                <path>./system/logos/system-logo-white/${system.theme}.svg</path>
+                <color>${primaryColor}</color>
+                <colorEnd>${secondaryColor}</colorEnd>
+                <zIndex>13</zIndex>
+            </image>
+            <image name="consolegame5">
+                <pos>0.5 0.05</pos>
+                <maxSize>0.35 0.125</maxSize>
+                <origin>0 0</origin>
+                <opacity>0.15</opacity>
+                <path>./system/logos/system-logo-white/${system.theme}.svg</path>
+                <color>${primaryColor}</color>
+                <colorEnd>${secondaryColor}</colorEnd>
+                <zIndex>15</zIndex>
+            </image>
+            <image name="logo">
+                <pos>0.0925 0.0675</pos>
+                <maxSize>0.27 0.08</maxSize>
+                <origin>0.5 0.5</origin>
+                <path>./logoc.svg</path>
+                <zIndex>53</zIndex>
+            </image>
+            <image name="logo2">
+                <pos>0.09 0.065</pos>
+                <maxSize>0.27 0.08</maxSize>
+                <origin>0.5 0.5</origin>
+                <path>./logoc.svg</path>
+                <color>000000</color>
+                <zIndex>52</zIndex>
+            </image>
+            <image name="logo3">
+                <pos>0.0875 0.065</pos>
+                <maxSize>0.27 0.08</maxSize>
+                <origin>0.5 0.5</origin>
+                <path>./logoc.svg</path>
+                <color>000000</color>
+                <zIndex>52</zIndex>
+            </image>
+        </view>
+
+
+        <view name="system">
+            <carousel name="system_carousel">
+                <pos>0 0.503</pos>
+                <size>1 .35</size>
+                <staticImage>./core/banner/${system.theme}.png</staticImage>
+                <color>11111100</color>
+                <itemSize>0.16 0.3</itemSize>
+                <itemScale>1.3</itemScale>
+                <selectedItemMargins>0.035 0.0375</selectedItemMargins>
+                <maxItemCount>6.1</maxItemCount>
+                <unfocusedItemOpacity>0.5</unfocusedItemOpacity>
+                <text>${systemName}</text>
+                <textColor>${primaryColor}</textColor>
+                <fontPath>${primaryFont}</fontPath>
+                <fontSize>0.035</fontSize>
+                <letterCase>uppercase</letterCase>
+                <lineSpacing>1</lineSpacing>
+                <zIndex>29</zIndex>
+            </carousel>
+            <image name="lhsedge1">
+                <origin>0 0</origin>
+                <pos>0.0 0.5225</pos>
+                <size>0.38 0.009</size>
+                <path>${spacerimage}</path>
+                <color>${primaryColor}</color>
+                <zIndex>11</zIndex>
+            </image>
+            <image name="lhsedge2">
+                <origin>0 0</origin>
+                <pos>0.0 0.825</pos>
+                <size>0.38 0.009</size>
+                <path>${spacerimage}</path>
+                <color>${primaryColor}</color>
+                <zIndex>11</zIndex>
+            </image>
+            <image name="lhsedge3">
+                <origin>1 0</origin>
+                <pos>1 0.5225</pos>
+                <size>0.38 0.009</size>
+                <path>${spacerimage}</path>
+                <color>${primaryColor}</color>
+                <zIndex>11</zIndex>
+            </image>
+            <image name="lhsedge4">
+                <origin>1 0</origin>
+                <pos>1 0.825</pos>
+                <size>0.38 0.009</size>
+                <path>${spacerimage}</path>
+                <color>${primaryColor}</color>
+                <zIndex>11</zIndex>
+            </image>
+            <image name="lhsedge1a">
+                <origin>0 0</origin>
+                <pos>0.0 0.5225</pos>
+                <size>0.3167 0.009</size>
+                <path>${spacerimage}</path>
+                <color>a491eb</color>
+                <zIndex>12</zIndex>
+            </image>
+            <image name="lhsedge2a">
+                <origin>0 0</origin>
+                <pos>0.0 0.825</pos>
+                <size>0.3167 0.009</size>
+                <path>${spacerimage}</path>
+                <color>a491eb</color>
+                <zIndex>12</zIndex>
+            </image>
+            <image name="lhsedge3a">
+                <origin>1 0</origin>
+                <pos>1 0.5225</pos>
+                <size>0.3167 0.009</size>
+                <path>${spacerimage}</path>
+                <color>a491eb</color>
+                <zIndex>12</zIndex>
+            </image>
+            <image name="lhsedge4a">
+                <origin>1 0</origin>
+                <pos>1 0.825</pos>
+                <size>0.3167 0.009</size>
+                <path>${spacerimage}</path>
+                <color>a491eb</color>
+                <zIndex>12</zIndex>
+            </image>
+            <image name="lhsedge1b">
+                <origin>0 0</origin>
+                <pos>0.0 0.5225</pos>
+                <size>0.2534 0.009</size>
+                <path>${spacerimage}</path>
+                <color>809cf0</color>
+                <zIndex>13</zIndex>
+            </image>
+            <image name="lhsedge2b">
+                <origin>0 0</origin>
+                <pos>0.0 0.825</pos>
+                <size>0.2534 0.009</size>
+                <path>${spacerimage}</path>
+                <color>809cf0</color>
+                <zIndex>13</zIndex>
+            </image>
+            <image name="lhsedge3b">
+                <origin>1 0</origin>
+                <pos>1 0.5225</pos>
+                <size>0.2534 0.009</size>
+                <path>${spacerimage}</path>
+                <color>809cf0</color>
+                <zIndex>13</zIndex>
+            </image>
+            <image name="lhsedge4b">
+                <origin>1 0</origin>
+                <pos>1 0.825</pos>
+                <size>0.2534 0.009</size>
+                <path>${spacerimage}</path>
+                <color>809cf0</color>
+                <zIndex>13</zIndex>
+            </image>
+            <image name="lhsedge1c">
+                <origin>0 0</origin>
+                <pos>0.0 0.5225</pos>
+                <size>0.1901 0.009</size>
+                <path>${spacerimage}</path>
+                <color>5da8f5</color>
+                <zIndex>14</zIndex>
+            </image>
+            <image name="lhsedge2c">
+                <origin>0 0</origin>
+                <pos>0.0 0.825</pos>
+                <size>0.1901 0.009</size>
+                <path>${spacerimage}</path>
+                <color>5da8f5</color>
+                <zIndex>14</zIndex>
+            </image>
+            <image name="lhsedge3c">
+                <origin>1 0</origin>
+                <pos>1 0.5225</pos>
+                <size>0.1901 0.009</size>
+                <path>${spacerimage}</path>
+                <color>5da8f5</color>
+                <zIndex>14</zIndex>
+            </image>
+            <image name="lhsedge4c">
+                <origin>1 0</origin>
+                <pos>1 0.825</pos>
+                <size>0.1901 0.009</size>
+                <path>${spacerimage}</path>
+                <color>5da8f5</color>
+                <zIndex>14</zIndex>
+            </image>
+            <image name="lhsedge1d">
+                <origin>0 0</origin>
+                <pos>0.0 0.5225</pos>
+                <size>0.1268 0.009</size>
+                <path>${spacerimage}</path>
+                <color>39b3fa</color>
+                <zIndex>15</zIndex>
+            </image>
+            <image name="lhsedge2d">
+                <origin>0 0</origin>
+                <pos>0.0 0.825</pos>
+                <size>0.1268 0.009</size>
+                <path>${spacerimage}</path>
+                <color>39b3fa</color>
+                <zIndex>15</zIndex>
+            </image>
+            <image name="lhsedge3d">
+                <origin>1 0</origin>
+                <pos>1 0.5225</pos>
+                <size>0.1268 0.009</size>
+                <path>${spacerimage}</path>
+                <color>39b3fa</color>
+                <zIndex>15</zIndex>
+            </image>
+            <image name="lhsedge4d">
+                <origin>1 0</origin>
+                <pos>1 0.825</pos>
+                <size>0.1268 0.009</size>
+                <path>${spacerimage}</path>
+                <color>39b3fa</color>
+                <zIndex>15</zIndex>
+            </image>
+            <image name="lhsedge1e">
+                <origin>0 0</origin>
+                <pos>0.0 0.5225</pos>
+                <size>0.0635 0.006</size>
+                <path>${spacerimage}</path>
+                <color>16bfff</color>
+                <zIndex>16</zIndex>
+            </image>
+            <image name="lhsedge2e">
+                <origin>0 0</origin>
+                <pos>0.0 0.825</pos>
+                <size>0.0635 0.009</size>
+                <path>${spacerimage}</path>
+                <color>16bfff</color>
+                <zIndex>16</zIndex>
+            </image>
+            <image name="lhsedge3e">
+                <origin>1 0</origin>
+                <pos>1 0.5225</pos>
+                <size>0.0635 0.009</size>
+                <path>${spacerimage}</path>
+                <color>16bfff</color>
+                <zIndex>16</zIndex>
+            </image>
+            <image name="lhsedge4e">
+                <origin>1 0</origin>
+                <pos>1 0.825</pos>
+                <size>0.0635 0.009</size>
+                <path>${spacerimage}</path>
+                <color>16bfff</color>
+                <zIndex>16</zIndex>
+            </image>
+            <image name="selected">
+                <pos>0.5 0.495</pos>
+                <origin>0.5 0</origin>
+                <size>0.21 0.37</size>
+                <path>./core/images/sysselect.png</path>
+                <color>${selectsysColor}</color>
+            </image>
+            <text name="gamecount">
+                <pos>0.5 0.15</pos>
+                <size>0.4 0.036</size>
+                <origin>0.5 0</origin>
+                <systemdata>gamecountGames</systemdata>
+                <color>${textColor}</color>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>${sysfont}</fontSize>
+                <horizontalAlignment>center</horizontalAlignment>
+                <letterCase>uppercase</letterCase>
+                <zIndex>45</zIndex>
+            </text>
+            <gameselector name="select">
+                <selection>random</selection>
+                <gameCount>1</gameCount>
+            </gameselector>
+            <text name="game3">
+                <pos>0.49 0.19</pos>
+                <size>0.25 0.036</size>
+                <origin>1 0</origin>
+                <text>including:</text>
+                <color>${secondaryColor}</color>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>${sysfont}</fontSize>
+                <horizontalAlignment>center</horizontalAlignment>
+                <letterCase>uppercase</letterCase>
+                <zIndex>40</zIndex>
+            </text>
+           <!-- <text name="gamename">
+                <pos>0.5 0.45</pos>
+                <size>0.9 0.036</size>
+                <origin>0.5 0</origin>
+                <metadata>name</metadata>
+                <color>${secondaryColor}</color>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>${sysfont}</fontSize>
+                <horizontalAlignment>center</horizontalAlignment>
+                <letterCase>uppercase</letterCase>
+                <zIndex>45</zIndex>
+            </text>-->
+            <image name="gamecount2">
+                <pos>0.56 0.3725</pos>
+                <origin>1 0.5</origin>
+                <maxSize>0.3 0.2</maxSize>
+                <imageType>marquee,cover,titlescreen</imageType>
+                <default>./classic.svg</default>
+                <interpolation>linear</interpolation>
+                <zIndex>40</zIndex>
+                <gameselectorEntry>1</gameselectorEntry>
+            </image>
+            <image name="gamecount3">
+                <pos>0.5 0.3475</pos>
+                <origin>0 0.5</origin>
+                <maxSize>0.25 0.25</maxSize>
+                <imageType>screenshot</imageType>
+                <default>./logog.svg</default>
+                <interpolation>linear</interpolation>
+                <zIndex>39</zIndex>
+                <gameselectorEntry>1</gameselectorEntry>
+            </image>
+            <helpsystem name="help">
+                <pos>.85 0.975</pos>
+                <origin>1 1</origin>
+                <fontPath>${primaryFont}</fontPath>
+                <textColor>${secondaryColor}</textColor>
+                <iconColor>${primaryColor}</iconColor>
+                <fontSize>${helpfont}</fontSize>
+            </helpsystem>
+        </view>
+        <view name="gamelist">
+            <text name="collectionsSystemName">
+                <size>0.32 0.05</size>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>${collsys}</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>${primaryColor}</color>
+                <pos>0.285 0.8765</pos>
+                <origin>0.5 0.5</origin>
+                <origin>.50 0</origin>
+                <zIndex>52</zIndex>
+            </text>
+            <gamelistinfo name="info">
+                <pos>0.91 0.905</pos>
+                <origin>1 0.5</origin>
+                <size>0.2 0.025</size>
+                <horizontalAlignment>right</horizontalAlignment>
+                <verticalAlignment>center</verticalAlignment>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>0.03</fontSize>
+                <color>${secondaryColor}</color>
+                <zIndex>50</zIndex>
+            </gamelistinfo>
+            <helpsystem name="help">
+                <pos>0.85 0.975</pos>
+                <origin>1 1</origin>
+                <fontPath>${primaryFont}</fontPath>
+                <textColor>${secondaryColor}</textColor>
+                <iconColor>${primaryColor}</iconColor>
+                <fontSize>${helpfont}</fontSize>
+            </helpsystem>
+        </view>
+    </variant>
+
+
+    <variant name="textlist">
+        <view name="gamelist">
+            <carousel name="game_carousel">
+                <pos>0.01175 0.19</pos>
+                <size>0.3 0.6275</size>
+                <itemSize>0.29 0.07</itemSize>
+                <itemScale>1</itemScale>
+                <systemNameSuffix>false</systemNameSuffix>
+                <itemTransitions>instant</itemTransitions>
+                <type>vertical</type>
+                <imageType>none</imageType>
+                <textSelectedColor>${selectTextColor}</textSelectedColor>
+                <color>11111100</color>
+                <maxItemCount>7</maxItemCount>
+                <unfocusedItemOpacity>1</unfocusedItemOpacity>
+                <textColor>${secondaryColor}</textColor>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>${cartext}</fontSize>
+                <letterCase>uppercase</letterCase>
+                <lineSpacing>0.7</lineSpacing>
+                <zIndex>29</zIndex>
+            </carousel>
+            <image name="scroll">
+                <pos>0.1625 0.14</pos>
+                <origin>0.5 0</origin>
+                <size>0.06 0.04</size>
+                <path>./core/images/arrow.svg</path>
+                <rotation>180</rotation>
+                <color>${primaryColor}</color>
+                <zIndex>29</zIndex>
+            </image>
+            <image name="scroll2">
+                <pos>0.1625 0.14</pos>
+                <origin>0.5 0</origin>
+                <size>0.06 0.04</size>
+                <path>./core/images/arrow1.svg</path>
+                <rotation>180</rotation>
+                <color>${gamegridColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="carmain">
+                <pos>0.0125 0.1875</pos>
+                <size>0.3 0.09</size>
+                <path>./core/images/rec1.svg</path>
+                <color>${gamegridColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="carmainbak">
+                <pos>0.0125 0.1875</pos>
+                <size>0.3 0.09</size>
+                <path>./core/images/rec.svg</path>
+                <color>${primaryColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="carmain2">
+                <pos>0.0125 0.2775</pos>
+                <size>0.3 0.09</size>
+                <path>./core/images/rec1.svg</path>
+                <color>${gamegridColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="carmainbak2">
+                <pos>0.0125 0.2775</pos>
+                <size>0.3 0.09</size>
+                <path>./core/images/rec.svg</path>
+                <color>${primaryColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="carmain3">
+                <pos>0.0125 0.3675</pos>
+                <size>0.3 0.09</size>
+                <path>./core/images/rec1.svg</path>
+                <color>${gamegridColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="carmainbak3">
+                <pos>0.0125 0.3675</pos>
+                <size>0.3 0.09</size>
+                <path>./core/images/rec.svg</path>
+                <color>${primaryColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="carmain4">
+                <pos>0.0125 0.4575</pos>
+                <size>0.3 0.09</size>
+                <path>./core/images/rec1.svg</path>
+                <color>${selectgameColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="carmainbak4">
+                <pos>0.0125 0.4575</pos>
+                <size>0.3 0.09</size>
+                <path>./core/images/rec.svg</path>
+                <color>${primaryColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="carmain5">
+                <pos>0.0125 0.5475</pos>
+                <size>0.3 0.09</size>
+                <path>./core/images/rec1.svg</path>
+                <color>${gamegridColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="carmainbak5">
+                <pos>0.0125 0.5475</pos>
+                <size>0.3 0.09</size>
+                <path>./core/images/rec.svg</path>
+                <color>${primaryColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="carmain6">
+                <pos>0.0125 0.6375</pos>
+                <size>0.3 0.09</size>
+                <path>./core/images/rec1.svg</path>
+                <color>${gamegridColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="carmainbak6">
+                <pos>0.0125 0.6375</pos>
+                <size>0.3 0.09</size>
+                <path>./core/images/rec.svg</path>
+                <color>${primaryColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="carmain7">
+                <pos>0.0125 0.7275</pos>
+                <size>0.3 0.09</size>
+                <path>./core/images/rec1.svg</path>
+                <color>${gamegridColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="carmainbak7">
+                <pos>0.0125 0.7275</pos>
+                <size>0.3 0.09</size>
+                <path>./core/images/rec.svg</path>
+                <color>${primaryColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <image name="scroll3">
+                <pos>0.1625 0.82</pos>
+                <origin>0.5 0</origin>
+                <size>0.06 0.04</size>
+                <path>./core/images/arrow.svg</path>
+                <color>${primaryColor}</color>
+                <zIndex>29</zIndex>
+            </image>
+            <image name="scroll4">
+                <pos>0.1625 0.82</pos>
+                <origin>0.5 0</origin>
+                <size>0.06 0.04</size>
+                <path>./core/images/arrow1.svg</path>
+                <color>${gamegridColor}</color>
+                <zIndex>28</zIndex>
+            </image>
+            <text name="genre">
+                <size>0.3 0.05</size>
+                <metadata>genre</metadata>
+                <fontPath>${primaryFont}</fontPath>
+                <fontSize>${gamename}</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <verticalAlignment>left</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <defaultValue>:space:</defaultValue>
+                <color>${secondaryColor}</color>
+                <pos>0.795 0.125</pos>
+                <origin>0.5 0.5</origin>
+                <origin>.50 0</origin>
+                <zIndex>52</zIndex>
+            </text>
+            <datetime name="release">
+                <size>0.1 0.05</size>
+                <metadata>releasedate</metadata>
+                <fontPath>${primaryFont}</fontPath>
+                <format>%Y</format>
+                <fontSize>${gamename}</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <defaultValue>:space:</defaultValue>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>${secondaryColor}</color>
+                <pos>0.45 0.125</pos>
+                <origin>0.5 0.5</origin>
+                <origin>.50 0</origin>
+                <zIndex>52</zIndex>
+            </datetime>
+            <text name="sourceinfo">
+                <size>0.5 0.1</size>
+                <text>${systemName}</text>
+                <fontPath>${altFont}</fontPath>
+                <letterCase>capitalize</letterCase>
+                <fontSize>${gametitle}</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>${primaryColor}</color>
+                <pos>0.55 0.085</pos>
+                <origin>.5 0.5</origin>
+                <zIndex>50</zIndex>
+            </text>
+            <text name="desc">
+                <size>0.6 0.25</size>
+                <metadata>description</metadata>
+                <fontPath>${primaryFont}</fontPath>
+                <letterCase>capitalize</letterCase>
+                <fontSize>${metaDesc}</fontSize>
+                <lineSpacing>0.9</lineSpacing>
+                <systemNameSuffix>false</systemNameSuffix>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>${secondaryColor}</color>
+                <pos>0.6225 0.59</pos>
+                <origin>0.5 0</origin>
+                <zIndex>50</zIndex>
+            </text>
+            <video name="md_video">
+                <pos>0.6225 0.375</pos>
+                <maxSize>0.55 0.4</maxSize>
+                <origin>0.5 0.5</origin>
+                <imageType>marquee,screenshot</imageType>
+                <defaultImage>./logog.svg</defaultImage>
+                <interpolation>linear</interpolation>
+                <pillarboxes>false</pillarboxes>
+                <pillarboxThreshold>0.85 0.90</pillarboxThreshold>
+                <delay>1.7</delay>
+                <scrollFadeIn>true</scrollFadeIn>
+                <zIndex>29</zIndex>
+            </video>
+            <badges name="all">
+                <pos>0.954 0.475</pos>
+                <origin>0.5 0.5</origin>
+                <size>0.08 .6</size>
+                <direction>column</direction>
+                <lines>1</lines>
+                <itemsPerLine>6</itemsPerLine>
+                <itemMargin>0.001 0.001</itemMargin>
+                <horizontalAlignment>center</horizontalAlignment>
+                <slots>controller, completed, favorite, altemulator, kidgame,manual</slots>
+                <controllerPos>0.5 0.43</controllerPos>
+                <controllerSize>0.85</controllerSize>
+                <controllerIconColor>${primaryColor}</controllerIconColor>
+                <folderLinkSize>0.5 0.3</folderLinkSize>
+                <folderLinkPos>0.5 0.44</folderLinkPos>
+                <folderLinkIconColor>${backgroundColor}</folderLinkIconColor>
+                <customFolderLinkIcon>./core/badges/link.png</customFolderLinkIcon>
+                <badgeIconColor>${primaryColor}</badgeIconColor>
+                <customBadgeIcon badge="manual">./core/badges/manual.png</customBadgeIcon>
+                <customBadgeIcon badge="folder">./core/badges/folder.png</customBadgeIcon>
+                <customBadgeIcon badge="broken">./core/badges/broken.png</customBadgeIcon>
+                <customBadgeIcon badge="kidgame">./core/badges/kid.png</customBadgeIcon>
+                <customBadgeIcon badge="collection">./core/badges/collect.png</customBadgeIcon>
+                <customBadgeIcon badge="altemulator">./core/badges/alt.png</customBadgeIcon>
+                <customBadgeIcon badge="favorite">./core/badges/fave.png</customBadgeIcon>
+                <customBadgeIcon badge="completed">./core/badges/complete.png</customBadgeIcon>
+                <customBadgeIcon badge="controller">./core/badges/control.png</customBadgeIcon>
+                <zIndex>51</zIndex>
+            </badges>
+            <image name="rating">
+                <path>./rating.svg</path>
+                <size>0.06 0.1</size>
+                <pos>0.9565 0.82</pos>
+                <origin>0.5 0.5</origin>
+                <color>${primaryColor}</color>
+                <zIndex>50</zIndex>
+            </image>
+            <text name="rating">
+                <size>0.04 0.06</size>
+                <metadata>rating</metadata>
+                <fontPath>${secondaryFont}</fontPath>
+                <letterCase>capitalize</letterCase>
+                <fontSize>0.04</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <systemNameSuffix>false</systemNameSuffix>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>${primaryColor}</color>
+                <pos>0.9525 0.815</pos>
+                <origin>.5 0.5</origin>
+                <zIndex>50</zIndex>
+            </text>
+        </view>
+    </variant>
+
+
+    <variant name="carousel">
+        <view name="gamelist">
+            <carousel name="system_carousel">
+                <pos>0 0.4775</pos>
+                <size>1 .4</size>
+                <imageType>cover, physicalmedia</imageType>
+                <defaultImage>./logog.svg</defaultImage>
+                <color>11111100</color>
+                <itemSize>0.16 0.275</itemSize>
+                <itemScale>1.3</itemScale>
+                <selectedItemMargins>0.035 0.0375</selectedItemMargins>
+                <maxItemCount>6.1</maxItemCount>
+                <unfocusedItemOpacity>0.5</unfocusedItemOpacity>
+                <text>${systemName}</text>
+                <textColor>${primaryColor}</textColor>
+                <fontPath>${primaryFont}</fontPath>
+                <fontSize>0.025</fontSize>
+                <letterCase>uppercase</letterCase>
+                <lineSpacing>1</lineSpacing>
+                <zIndex>29</zIndex>
+            </carousel>
+            <image name="lhsedge1">
+                <origin>0 0</origin>
+                <pos>0.0 0.5225</pos>
+                <size>0.38 0.009</size>
+                <path>${spacerimage}</path>
+                <color>${primaryColor}</color>
+                <zIndex>11</zIndex>
+            </image>
+            <image name="lhsedge2">
+                <origin>0 0</origin>
+                <pos>0.0 0.825</pos>
+                <size>0.38 0.009</size>
+                <path>${spacerimage}</path>
+                <color>${primaryColor}</color>
+                <zIndex>11</zIndex>
+            </image>
+            <image name="lhsedge3">
+                <origin>1 0</origin>
+                <pos>1 0.5225</pos>
+                <size>0.38 0.009</size>
+                <path>${spacerimage}</path>
+                <color>${primaryColor}</color>
+                <zIndex>11</zIndex>
+            </image>
+            <image name="lhsedge4">
+                <origin>1 0</origin>
+                <pos>1 0.825</pos>
+                <size>0.38 0.009</size>
+                <path>${spacerimage}</path>
+                <color>${primaryColor}</color>
+                <zIndex>11</zIndex>
+            </image>
+            <image name="lhsedge1a">
+                <origin>0 0</origin>
+                <pos>0.0 0.5225</pos>
+                <size>0.3167 0.009</size>
+                <path>${spacerimage}</path>
+                <color>a491eb</color>
+                <zIndex>12</zIndex>
+            </image>
+            <image name="lhsedge2a">
+                <origin>0 0</origin>
+                <pos>0.0 0.825</pos>
+                <size>0.3167 0.009</size>
+                <path>${spacerimage}</path>
+                <color>a491eb</color>
+                <zIndex>12</zIndex>
+            </image>
+            <image name="lhsedge3a">
+                <origin>1 0</origin>
+                <pos>1 0.5225</pos>
+                <size>0.3167 0.009</size>
+                <path>${spacerimage}</path>
+                <color>a491eb</color>
+                <zIndex>12</zIndex>
+            </image>
+            <image name="lhsedge4a">
+                <origin>1 0</origin>
+                <pos>1 0.825</pos>
+                <size>0.3167 0.009</size>
+                <path>${spacerimage}</path>
+                <color>a491eb</color>
+                <zIndex>12</zIndex>
+            </image>
+            <image name="lhsedge1b">
+                <origin>0 0</origin>
+                <pos>0.0 0.5225</pos>
+                <size>0.2534 0.009</size>
+                <path>${spacerimage}</path>
+                <color>809cf0</color>
+                <zIndex>13</zIndex>
+            </image>
+            <image name="lhsedge2b">
+                <origin>0 0</origin>
+                <pos>0.0 0.825</pos>
+                <size>0.2534 0.009</size>
+                <path>${spacerimage}</path>
+                <color>809cf0</color>
+                <zIndex>13</zIndex>
+            </image>
+            <image name="lhsedge3b">
+                <origin>1 0</origin>
+                <pos>1 0.5225</pos>
+                <size>0.2534 0.009</size>
+                <path>${spacerimage}</path>
+                <color>809cf0</color>
+                <zIndex>13</zIndex>
+            </image>
+            <image name="lhsedge4b">
+                <origin>1 0</origin>
+                <pos>1 0.825</pos>
+                <size>0.2534 0.009</size>
+                <path>${spacerimage}</path>
+                <color>809cf0</color>
+                <zIndex>13</zIndex>
+            </image>
+            <image name="lhsedge1c">
+                <origin>0 0</origin>
+                <pos>0.0 0.5225</pos>
+                <size>0.1901 0.009</size>
+                <path>${spacerimage}</path>
+                <color>5da8f5</color>
+                <zIndex>14</zIndex>
+            </image>
+            <image name="lhsedge2c">
+                <origin>0 0</origin>
+                <pos>0.0 0.825</pos>
+                <size>0.1901 0.009</size>
+                <path>${spacerimage}</path>
+                <color>5da8f5</color>
+                <zIndex>14</zIndex>
+            </image>
+            <image name="lhsedge3c">
+                <origin>1 0</origin>
+                <pos>1 0.5225</pos>
+                <size>0.1901 0.009</size>
+                <path>${spacerimage}</path>
+                <color>5da8f5</color>
+                <zIndex>14</zIndex>
+            </image>
+            <image name="lhsedge4c">
+                <origin>1 0</origin>
+                <pos>1 0.825</pos>
+                <size>0.1901 0.009</size>
+                <path>${spacerimage}</path>
+                <color>5da8f5</color>
+                <zIndex>14</zIndex>
+            </image>
+            <image name="lhsedge1d">
+                <origin>0 0</origin>
+                <pos>0.0 0.5225</pos>
+                <size>0.1268 0.009</size>
+                <path>${spacerimage}</path>
+                <color>39b3fa</color>
+                <zIndex>15</zIndex>
+            </image>
+            <image name="lhsedge2d">
+                <origin>0 0</origin>
+                <pos>0.0 0.825</pos>
+                <size>0.1268 0.009</size>
+                <path>${spacerimage}</path>
+                <color>39b3fa</color>
+                <zIndex>15</zIndex>
+            </image>
+            <image name="lhsedge3d">
+                <origin>1 0</origin>
+                <pos>1 0.5225</pos>
+                <size>0.1268 0.009</size>
+                <path>${spacerimage}</path>
+                <color>39b3fa</color>
+                <zIndex>15</zIndex>
+            </image>
+            <image name="lhsedge4d">
+                <origin>1 0</origin>
+                <pos>1 0.825</pos>
+                <size>0.1268 0.009</size>
+                <path>${spacerimage}</path>
+                <color>39b3fa</color>
+                <zIndex>15</zIndex>
+            </image>
+            <image name="lhsedge1e">
+                <origin>0 0</origin>
+                <pos>0.0 0.5225</pos>
+                <size>0.0635 0.006</size>
+                <path>${spacerimage}</path>
+                <color>16bfff</color>
+                <zIndex>16</zIndex>
+            </image>
+            <image name="lhsedge2e">
+                <origin>0 0</origin>
+                <pos>0.0 0.825</pos>
+                <size>0.0635 0.009</size>
+                <path>${spacerimage}</path>
+                <color>16bfff</color>
+                <zIndex>16</zIndex>
+            </image>
+            <image name="lhsedge3e">
+                <origin>1 0</origin>
+                <pos>1 0.5225</pos>
+                <size>0.0635 0.009</size>
+                <path>${spacerimage}</path>
+                <color>16bfff</color>
+                <zIndex>16</zIndex>
+            </image>
+            <image name="lhsedge4e">
+                <origin>1 0</origin>
+                <pos>1 0.825</pos>
+                <size>0.0635 0.009</size>
+                <path>${spacerimage}</path>
+                <color>16bfff</color>
+                <zIndex>16</zIndex>
+            </image>
+            <text name="desc">
+                <size>0.35 0.385</size>
+                <metadata>description</metadata>
+                <fontPath>${primaryFont}</fontPath>
+                <letterCase>capitalize</letterCase>
+                <fontSize>${metaDesc}</fontSize>
+                <lineSpacing>0.9</lineSpacing>
+                <systemNameSuffix>false</systemNameSuffix>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>left</horizontalAlignment>
+                <color>${secondaryColor}</color>
+                <pos>0.01 0.325</pos>
+                <origin>0 0.5</origin>
+                <zIndex>50</zIndex>
+            </text>
+            <video name="md_video">
+                <pos>0.815 0.32</pos>
+                <maxSize>0.35 0.36</maxSize>
+                <origin>0.5 0.5</origin>
+                <imageType>marquee</imageType>
+                <interpolation>linear</interpolation>
+                <pillarboxes>false</pillarboxes>
+                <defaultImage>./logog.svg</defaultImage>
+                <pillarboxThreshold>0.85 0.90</pillarboxThreshold>
+                <delay>1.7</delay>
+                <scrollFadeIn>true</scrollFadeIn>
+                <zIndex>29</zIndex>
+            </video>
+            <text name="sourceinfo">
+                <size>0.5 0.1</size>
+                <text>${systemName}</text>
+                <fontPath>${altFont}</fontPath>
+                <letterCase>capitalize</letterCase>
+                <fontSize>${gametitle}</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>${primaryColor}</color>
+                <pos>0.55 0.085</pos>
+                <origin>.5 0.5</origin>
+                <zIndex>50</zIndex>
+            </text>
+            <datetime name="mdrelease">
+                <pos>0.5 0.315</pos>
+                <origin>.50 0</origin>
+                <size>0.15 0.07</size>
+                <metadata>releasedate</metadata>
+                <defaultValue>:space:</defaultValue>
+                <fontPath>${primaryFont}</fontPath>
+                <fontSize>${metaDesc}</fontSize>
+                <lineSpacing>0.9</lineSpacing>
+                <format>(%Y)</format>
+                <verticalAlignment>top</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <gameselector>1</gameselector>
+                <color>${secondaryColor}</color>
+            </datetime>
+            <text name="mdgen">
+                <pos>0.545 0.38</pos>
+                <origin>.50 0</origin>
+                <size>0.15 0.07</size>
+                <metadata>genre</metadata>
+                <defaultValue>:space:</defaultValue>
+                <fontPath>${primaryFont}</fontPath>
+                <fontSize>${gamename}</fontSize>
+                <lineSpacing>0.9</lineSpacing>
+                <verticalAlignment>top</verticalAlignment>
+                <horizontalAlignment>left</horizontalAlignment>
+                <color>${secondaryColor}</color>
+            </text>
+            <text name="mdlbgen">
+                <pos>0.45 0.38</pos>
+                <origin>.50 0</origin>
+                <size>0.1 0.07</size>
+                <text>Genre:</text>
+                <fontPath>${primaryFont}</fontPath>
+                <fontSize>${gamename}</fontSize>
+                <lineSpacing>0.9</lineSpacing>
+                <verticalAlignment>top</verticalAlignment>
+                <horizontalAlignment>left</horizontalAlignment>
+                <color>${primaryColor}</color>
+            </text>
+            <text name="mdlbrat">
+                <pos>0.45 0.43</pos>
+                <origin>.50 0</origin>
+                <size>0.1 0.05</size>
+                <text>Rating:</text>
+                <fontPath>${primaryFont}</fontPath>
+                <fontSize>${gamename}</fontSize>
+                <lineSpacing>0.9</lineSpacing>
+                <verticalAlignment>bottom</verticalAlignment>
+                <horizontalAlignment>left</horizontalAlignment>
+                <color>${primaryColor}</color>
+            </text>
+            <rating name="rating">
+                <pos>0.475 0.45</pos>
+                <size>0.2 0.04</size>
+                <interpolation>nearest</interpolation>
+                <color>${secondaryColor}</color>
+                <unfilledPath>./core/images/rating_empty.svg</unfilledPath>
+                <filledPath>./core/images/blank.svg</filledPath>
+            </rating>
+            <rating name="rating2">
+                <pos>0.475 0.45</pos>
+                <size>0.2 0.04</size>
+                <interpolation>nearest</interpolation>
+                <color>${primaryColor}</color>
+                <filledPath>./core/images/rating_filled.svg</filledPath>
+                <unfilledPath>./core/images/blank.svg</unfilledPath>
+            </rating>
+            <text name="name">
+                <size>0.26 0.17</size>
+                <metadata>name</metadata>
+                <fontPath>${altFont}</fontPath>
+                <letterCase>capitalize</letterCase>
+                <fontSize>${gametitle}</fontSize>
+                <lineSpacing>0.7</lineSpacing>
+                <systemNameSuffix>false</systemNameSuffix>
+                <verticalAlignment>bottom</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>${primaryColor}</color>
+                <pos>0.5 0.14</pos>
+                <origin>0.5 0</origin>
+                <zIndex>50</zIndex>
+            </text>
+            
+        </view>
+    </variant>
+
+    <variant name="grid">
+        <view name="gamelist">
+        <grid name="grid">
+            <pos>0.005 0.12</pos>
+            <size>0.5 0.75</size>
+            <itemSize>${gridItem}</itemSize>
+            <itemSpacing>0 0</itemSpacing>
+            <origin>0 0</origin>
+            <imageType>marquee</imageType>
+            <imageRelativeScale>0.85</imageRelativeScale>
+            <selectorImage>./core/images/syssel.png</selectorImage>
+            <selectorLayer>middle</selectorLayer>
+            <fractionalRows>true</fractionalRows>
+            <backgroundImage>./core/banner/background.png</backgroundImage>
+            <textColor>${secondaryColor}</textColor>
+            <textSelectedColor>000000</textSelectedColor>
+            <fontPath>${altFont}</fontPath>
+            <textRelativeScale>0.8</textRelativeScale>
+            <lineSpacing>0.7</lineSpacing>
+            <fontSize>0.025</fontSize>
+        </grid>
+        <text name="sourceinfo">
+            <size>0.6 0.1</size>
+            <text>${systemName}</text>
+            <fontPath>${altFont}</fontPath>
+            <letterCase>capitalize</letterCase>
+            <fontSize>${gametitle}</fontSize>
+            <lineSpacing>1</lineSpacing>
+            <verticalAlignment>center</verticalAlignment>
+            <horizontalAlignment>center</horizontalAlignment>
+            <color>${primaryColor}</color>
+            <pos>0.6225 0.085</pos>
+            <origin>.5 0.5</origin>
+            <zIndex>50</zIndex>
+        </text>
+        <video name="md_video">
+            <pos>0.75 0.47</pos>
+            <maxSize>0.48 0.46</maxSize>
+            <origin>0.5 0.5</origin>
+            <imageType>titlescreen, screenshot</imageType>
+            <interpolation>linear</interpolation>
+            <pillarboxes>false</pillarboxes>
+            <defaultImage>./logog.svg</defaultImage>
+            <pillarboxThreshold>0.85 0.90</pillarboxThreshold>
+            <delay>1.7</delay>
+            <scrollFadeIn>true</scrollFadeIn>
+            <zIndex>29</zIndex>
+        </video>
+        <text name="name">
+            <size>0.48 0.1125</size>
+            <metadata>name</metadata>
+            <fontPath>${altFont}</fontPath>
+            <letterCase>capitalize</letterCase>
+            <fontSize>${gametitle}</fontSize>
+            <lineSpacing>0.625</lineSpacing>
+            <systemNameSuffix>false</systemNameSuffix>
+            <verticalAlignment>center</verticalAlignment>
+            <horizontalAlignment>center</horizontalAlignment>
+            <color>${primaryColor}</color>
+            <pos>0.75 0.125</pos>
+            <origin>0.5 0</origin>
+            <zIndex>50</zIndex>
+        </text>
+        <rating name="rating">
+            <pos>0.85 0.7</pos>
+            <size>0.2 0.04</size>
+            <interpolation>nearest</interpolation>
+            <color>${secondaryColor}</color>
+            <unfilledPath>./core/images/rating_empty.svg</unfilledPath>
+            <filledPath>./core/images/blank.svg</filledPath>
+        </rating>
+        <rating name="rating2">
+            <pos>0.85 0.7</pos>
+            <size>0.2 0.04</size>
+            <interpolation>nearest</interpolation>
+            <color>${primaryColor}</color>
+            <filledPath>./core/images/rating_filled.svg</filledPath>
+            <unfilledPath>./core/images/blank.svg</unfilledPath>
+        </rating>
+        
+        <datetime name="release">
+            <pos>0.52 0.7</pos>
+            <origin>0 0</origin>
+            <size>0.15 0.06</size>
+            <metadata>releasedate</metadata>
+            <defaultValue>:space:</defaultValue>
+            <fontPath>${primaryFont}</fontPath>
+            <fontSize>${cartext}</fontSize>
+            <lineSpacing>0.9</lineSpacing>
+            <format>%Y</format>
+            <verticalAlignment>top</verticalAlignment>
+            <horizontalAlignment>left</horizontalAlignment>
+            <color>${secondaryColor}</color>
+            <zIndex>100</zIndex>
+        </datetime>
+        <badges name="all">
+            <pos>0.75 0.8125</pos>
+            <origin>0.5 0.5</origin>
+            <size>0.48 .125</size>
+            <direction>row</direction>
+            <lines>1</lines>
+            <itemsPerLine>6</itemsPerLine>
+            <itemMargin>0.001 0.001</itemMargin>
+            <horizontalAlignment>center</horizontalAlignment>
+            <slots>controller, completed, favorite, altemulator, kidgame,manual</slots>
+            <controllerPos>0.5 0.43</controllerPos>
+            <controllerSize>0.85</controllerSize>
+            <controllerIconColor>${primaryColor}</controllerIconColor>
+            <folderLinkSize>0.5 0.3</folderLinkSize>
+            <folderLinkPos>0.5 0.44</folderLinkPos>
+            <folderLinkIconColor>${backgroundColor}</folderLinkIconColor>
+            <customFolderLinkIcon>./core/badges/link.png</customFolderLinkIcon>
+            <badgeIconColor>${primaryColor}</badgeIconColor>
+            <customBadgeIcon badge="manual">./core/badges/manual.png</customBadgeIcon>
+            <customBadgeIcon badge="folder">./core/badges/folder.png</customBadgeIcon>
+            <customBadgeIcon badge="broken">./core/badges/broken.png</customBadgeIcon>
+            <customBadgeIcon badge="kidgame">./core/badges/kid.png</customBadgeIcon>
+            <customBadgeIcon badge="collection">./core/badges/collect.png</customBadgeIcon>
+            <customBadgeIcon badge="altemulator">./core/badges/alt.png</customBadgeIcon>
+            <customBadgeIcon badge="favorite">./core/badges/fave.png</customBadgeIcon>
+            <customBadgeIcon badge="completed">./core/badges/complete.png</customBadgeIcon>
+            <customBadgeIcon badge="controller">./core/badges/control.png</customBadgeIcon>
+            <zIndex>51</zIndex>
+        </badges>
+    </view>
+    </variant>
+
+
+</theme>

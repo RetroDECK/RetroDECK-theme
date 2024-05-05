@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   version="1.1"
+   viewBox="0 0 128 128"
+   id="svg4"
+   sodipodi:docname="blank.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5849"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.5796213"
+     inkscape:cx="121.62578"
+     inkscape:cy="47.60219"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <defs
+     id="defs8">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3446">
+      <path
+         id="path3448"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 191.09896,190.055 258.83637,335.13529 V 190.055 Z"
+         sodipodi:nodetypes="ccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+  </defs>
+  <path
+     id="rect3338"
+     style="fill:#feffff;fill-opacity:1;stroke:none;stroke-width:21.5176;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke;opacity:0"
+     d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+     transform="matrix(0.13933291,0,0,0.14171269,-1.882407,3.6049283)"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+     clip-path="url(#clipPath3446)"
+     inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+     inkscape:path-effect="#path-effect3450" />
+</svg>
