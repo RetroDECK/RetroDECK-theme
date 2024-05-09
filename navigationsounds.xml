@@ -4,7 +4,7 @@
             <path>./core/sounds/systembrowse.wav</path>
         </sound>
         <sound name="quicksysselect">
-            <path>./core/sounds/systembrowse.wav</path>
+            <path>./core/sounds/select.wav</path>
         </sound>
         <sound name="select">
             <path>./core/sounds/select.wav</path>
@@ -13,7 +13,7 @@
             <path>./core/sounds/back.wav</path>
         </sound>
         <sound name="scroll">
-            <path>./core/sounds/scroll.wav</path>
+            <path>./core/sounds/systembrowse.wav</path>
         </sound>
         <sound name="favorite">
             <path>./core/sounds/favorite.wav</path>
