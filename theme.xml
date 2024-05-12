@@ -393,6 +393,21 @@
                 <zIndex>39</zIndex>
                 <gameselectorEntry>1</gameselectorEntry>
             </image>
+            
+            <text name="power">
+                <text>POWER ON</text>
+                <size>0.27 0.05</size>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>0.035</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>000000</color>
+                <pos>0.5 0.88</pos>
+                <origin>0.5 0.5</origin>
+                <origin>.50 0</origin>
+                <zIndex>52</zIndex>
+            </text>
             <helpsystem name="help">
                 <pos>.85 0.975</pos>
                 <origin>1 1</origin>
@@ -404,14 +419,44 @@
         </view>
         <view name="gamelist">
             <text name="collectionsSystemName">
+                <metadata>sourceSystemFullname</metadata>
+
                 <size>0.32 0.05</size>
                 <fontPath>${altFont}</fontPath>
                 <fontSize>${collsys}</fontSize>
                 <lineSpacing>1</lineSpacing>
                 <verticalAlignment>center</verticalAlignment>
-                <horizontalAlignment>center</horizontalAlignment>
+                <horizontalAlignment>right</horizontalAlignment>
                 <color>${primaryColor}</color>
-                <pos>0.285 0.8765</pos>
+                <pos>0.24 0.8765</pos>
+                <origin>0.5 0.5</origin>
+                <origin>.50 0</origin>
+                <zIndex>52</zIndex>
+            </text>
+            <text name="power">
+                <text>POWERED BY</text>
+                <size>0.27 0.05</size>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>0.035</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>000000</color>
+                <pos>0.5 0.88</pos>
+                <origin>0.5 0.5</origin>
+                <origin>.50 0</origin>
+                <zIndex>52</zIndex>
+            </text>
+            <text name="emulator">
+                <metadata>emulator</metadata>
+                <size>0.27 0.05</size>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>${collsys}</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>left</horizontalAlignment>
+                <color>${primaryColor}</color>
+                <pos>0.7375 0.8765</pos>
                 <origin>0.5 0.5</origin>
                 <origin>.50 0</origin>
                 <zIndex>52</zIndex>
@@ -423,12 +468,12 @@
                 <fontSize>${collsys}</fontSize>
                 <lineSpacing>1</lineSpacing>
                 <verticalAlignment>center</verticalAlignment>
-                <horizontalAlignment>center</horizontalAlignment>
-                <color>${primaryColor}</color>
-                <pos>0.725 0.8765</pos>
+                <horizontalAlignment>left</horizontalAlignment>
+                <color>${secondaryColor}</color>
+                <pos>0.7375 0.8765</pos>
                 <origin>0.5 0.5</origin>
                 <origin>.50 0</origin>
-                <zIndex>52</zIndex>
+                <zIndex>53</zIndex>
             </text>
             <gamelistinfo name="info">
                 <pos>0.91 0.905</pos>
@@ -441,6 +486,20 @@
                 <color>${secondaryColor}</color>
                 <zIndex>50</zIndex>
             </gamelistinfo>
+            <text name="sourceinfo">
+                <size>0.5 0.1</size>
+                <text>${systemName}</text>
+                <fontPath>${altFont}</fontPath>
+                <letterCase>capitalize</letterCase>
+                <fontSize>${gametitle}</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>${primaryColor}</color>
+                <pos>0.55 0.085</pos>
+                <origin>.5 0.5</origin>
+                <zIndex>50</zIndex>
+            </text>
             <helpsystem name="help">
                 <pos>0.85 0.975</pos>
                 <origin>1 1</origin>
@@ -638,20 +697,7 @@
                 <origin>.50 0</origin>
                 <zIndex>52</zIndex>
             </datetime>
-            <text name="sourceinfo">
-                <size>0.5 0.1</size>
-                <text>${systemName}</text>
-                <fontPath>${altFont}</fontPath>
-                <letterCase>capitalize</letterCase>
-                <fontSize>${gametitle}</fontSize>
-                <lineSpacing>1</lineSpacing>
-                <verticalAlignment>center</verticalAlignment>
-                <horizontalAlignment>center</horizontalAlignment>
-                <color>${primaryColor}</color>
-                <pos>0.55 0.085</pos>
-                <origin>.5 0.5</origin>
-                <zIndex>50</zIndex>
-            </text>
+            
             <text name="desc">
                 <size>0.6 0.25</size>
                 <metadata>description</metadata>
@@ -977,20 +1023,6 @@
                 <scrollFadeIn>true</scrollFadeIn>
                 <zIndex>29</zIndex>
             </video>
-            <text name="sourceinfo">
-                <size>0.5 0.1</size>
-                <text>${systemName}</text>
-                <fontPath>${altFont}</fontPath>
-                <letterCase>capitalize</letterCase>
-                <fontSize>${gametitle}</fontSize>
-                <lineSpacing>1</lineSpacing>
-                <verticalAlignment>center</verticalAlignment>
-                <horizontalAlignment>center</horizontalAlignment>
-                <color>${primaryColor}</color>
-                <pos>0.55 0.085</pos>
-                <origin>.5 0.5</origin>
-                <zIndex>50</zIndex>
-            </text>
             <datetime name="mdrelease">
                 <pos>0.5 0.315</pos>
                 <origin>.50 0</origin>
@@ -1099,20 +1131,6 @@
             <lineSpacing>0.7</lineSpacing>
             <fontSize>0.025</fontSize>
         </grid>
-        <text name="sourceinfo">
-            <size>0.6 0.1</size>
-            <text>${systemName}</text>
-            <fontPath>${altFont}</fontPath>
-            <letterCase>capitalize</letterCase>
-            <fontSize>${gametitle}</fontSize>
-            <lineSpacing>1</lineSpacing>
-            <verticalAlignment>center</verticalAlignment>
-            <horizontalAlignment>center</horizontalAlignment>
-            <color>${primaryColor}</color>
-            <pos>0.6225 0.085</pos>
-            <origin>.5 0.5</origin>
-            <zIndex>50</zIndex>
-        </text>
         <video name="md_video">
             <pos>0.75 0.47</pos>
             <maxSize>0.48 0.46</maxSize>
