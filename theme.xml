@@ -995,8 +995,9 @@
                 <color>16bfff</color>
                 <zIndex>16</zIndex>
             </image>
+         
             <text name="desc">
-                <size>0.35 0.385</size>
+                <size>0.35 0.3</size>
                 <metadata>description</metadata>
                 <fontPath>${primaryFont}</fontPath>
                 <letterCase>capitalize</letterCase>
