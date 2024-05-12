@@ -416,6 +416,20 @@
                 <origin>.50 0</origin>
                 <zIndex>52</zIndex>
             </text>
+            <text name="altemulator">
+                <metadata>altemulator</metadata>
+                <size>0.27 0.05</size>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>${collsys}</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>${primaryColor}</color>
+                <pos>0.725 0.8765</pos>
+                <origin>0.5 0.5</origin>
+                <origin>.50 0</origin>
+                <zIndex>52</zIndex>
+            </text>
             <gamelistinfo name="info">
                 <pos>0.91 0.905</pos>
                 <origin>1 0.5</origin>
