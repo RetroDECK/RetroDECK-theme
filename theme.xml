@@ -89,6 +89,7 @@
                 <colorEnd>${secondaryColor}</colorEnd>
                 <zIndex>15</zIndex>
             </image>
+           
             <image name="logo">
                 <pos>0.5 0.0565</pos>
                 <maxSize>0.27 0.08</maxSize>
@@ -418,6 +419,29 @@
             </helpsystem>
         </view>
         <view name="gamelist">
+            <image name="consolelogo">
+                <pos>0.68 0.081</pos>
+                <maxSize>0.18 0.06</maxSize>
+                <origin>0 .5</origin>
+                <path>./system/logos/system-logo-color/${system.theme}.svg</path>
+                <zIndex>52</zIndex>
+            </image>
+            <image name="consolelogo2">
+                <pos>0.6775 0.0785</pos>
+                <maxSize>0.18 0.06</maxSize>
+                <origin>0 0.5</origin>
+                <path>./system/logos/system-logo-color/${system.theme}.svg</path>
+                <zIndex>51</zIndex>
+                <color>000000</color>
+            </image>
+            <image name="consolelogo3">
+                <pos>0.6775 0.076</pos>
+                <maxSize>0.18 0.06</maxSize>
+                <origin>0 0.5</origin>
+                <path>./system/logos/system-logo-color/${system.theme}.svg</path>
+                <zIndex>51</zIndex>
+                <color>000000</color>
+            </image>
             <text name="collectionsSystemName">
                 <metadata>sourceSystemFullname</metadata>
 
@@ -473,7 +497,7 @@
                 <zIndex>53</zIndex>
             </text>
             <gamelistinfo name="info">
-                <pos>0.35 0.1</pos>
+                <pos>0.95 0.905</pos>
                 <origin>1 0.5</origin>
                 <size>0.2 0.025</size>
                 <horizontalAlignment>right</horizontalAlignment>
