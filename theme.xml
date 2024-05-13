@@ -90,14 +90,14 @@
                 <zIndex>15</zIndex>
             </image>
             <image name="logo">
-                <pos>0.0925 0.0675</pos>
+                <pos>0.5 0.0565</pos>
                 <maxSize>0.27 0.08</maxSize>
                 <origin>0.5 0.5</origin>
                 <path>./logoc.svg</path>
                 <zIndex>53</zIndex>
             </image>
             <image name="logo2">
-                <pos>0.09 0.065</pos>
+                <pos>0.4975 0.054</pos>
                 <maxSize>0.27 0.08</maxSize>
                 <origin>0.5 0.5</origin>
                 <path>./logoc.svg</path>
@@ -105,7 +105,7 @@
                 <zIndex>52</zIndex>
             </image>
             <image name="logo3">
-                <pos>0.0875 0.065</pos>
+                <pos>0.495 0.054</pos>
                 <maxSize>0.27 0.08</maxSize>
                 <origin>0.5 0.5</origin>
                 <path>./logoc.svg</path>
@@ -409,8 +409,8 @@
                 <zIndex>52</zIndex>
             </text>
             <helpsystem name="help">
-                <pos>.85 0.975</pos>
-                <origin>1 1</origin>
+                <pos>.5 0.98</pos>
+                <origin>0.5 1</origin>
                 <fontPath>${primaryFont}</fontPath>
                 <textColor>${secondaryColor}</textColor>
                 <iconColor>${primaryColor}</iconColor>
@@ -428,9 +428,8 @@
                 <verticalAlignment>center</verticalAlignment>
                 <horizontalAlignment>right</horizontalAlignment>
                 <color>${primaryColor}</color>
-                <pos>0.24 0.8765</pos>
-                <origin>0.5 0.5</origin>
-                <origin>.50 0</origin>
+                <pos>0.345 0.8765</pos>
+                <origin>1 0</origin>
                 <zIndex>52</zIndex>
             </text>
             <text name="power">
@@ -456,9 +455,8 @@
                 <verticalAlignment>center</verticalAlignment>
                 <horizontalAlignment>left</horizontalAlignment>
                 <color>${primaryColor}</color>
-                <pos>0.7375 0.8765</pos>
-                <origin>0.5 0.5</origin>
-                <origin>.50 0</origin>
+                <pos>0.66 0.8765</pos>
+                <origin>0 0</origin>
                 <zIndex>52</zIndex>
             </text>
             <text name="altemulator">
@@ -470,13 +468,12 @@
                 <verticalAlignment>center</verticalAlignment>
                 <horizontalAlignment>left</horizontalAlignment>
                 <color>${secondaryColor}</color>
-                <pos>0.7375 0.8765</pos>
-                <origin>0.5 0.5</origin>
-                <origin>.50 0</origin>
+                <pos>0.66 0.8765</pos>
+                <origin>0 0</origin>
                 <zIndex>53</zIndex>
             </text>
             <gamelistinfo name="info">
-                <pos>0.91 0.905</pos>
+                <pos>0.35 0.1</pos>
                 <origin>1 0.5</origin>
                 <size>0.2 0.025</size>
                 <horizontalAlignment>right</horizontalAlignment>
@@ -486,7 +483,7 @@
                 <color>${secondaryColor}</color>
                 <zIndex>50</zIndex>
             </gamelistinfo>
-            <text name="sourceinfo">
+            <!--<text name="sourceinfo">
                 <size>0.5 0.1</size>
                 <text>${systemName}</text>
                 <fontPath>${altFont}</fontPath>
@@ -499,10 +496,10 @@
                 <pos>0.55 0.085</pos>
                 <origin>.5 0.5</origin>
                 <zIndex>50</zIndex>
-            </text>
+            </text>-->
             <helpsystem name="help">
-                <pos>0.85 0.975</pos>
-                <origin>1 1</origin>
+                <pos>0.5 0.98</pos>
+                <origin>.5 1</origin>
                 <fontPath>${primaryFont}</fontPath>
                 <textColor>${secondaryColor}</textColor>
                 <iconColor>${primaryColor}</iconColor>
