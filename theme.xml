@@ -91,14 +91,14 @@
             </image>
            
             <image name="logo">
-                <pos>0.5 0.0565</pos>
+                <pos>0.5 0.0515</pos>
                 <maxSize>0.27 0.08</maxSize>
                 <origin>0.5 0.5</origin>
                 <path>./logoc.svg</path>
                 <zIndex>53</zIndex>
             </image>
             <image name="logo2">
-                <pos>0.4975 0.054</pos>
+                <pos>0.4975 0.049</pos>
                 <maxSize>0.27 0.08</maxSize>
                 <origin>0.5 0.5</origin>
                 <path>./logoc.svg</path>
@@ -106,7 +106,7 @@
                 <zIndex>52</zIndex>
             </image>
             <image name="logo3">
-                <pos>0.495 0.054</pos>
+                <pos>0.495 0.049</pos>
                 <maxSize>0.27 0.08</maxSize>
                 <origin>0.5 0.5</origin>
                 <path>./logoc.svg</path>
