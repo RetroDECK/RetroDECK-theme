@@ -91,25 +91,26 @@
             </image>
            
             <image name="logo">
-                <pos>0.5 0.0515</pos>
+                <pos>0.325 0.076</pos>
                 <maxSize>0.27 0.08</maxSize>
                 <origin>0.5 0.5</origin>
-                <path>./logoc.svg</path>
+                <path>./logobc.svg</path>
                 <zIndex>53</zIndex>
+                <color>404040</color>
             </image>
             <image name="logo2">
-                <pos>0.4975 0.049</pos>
+                <pos>0.3225 0.0735</pos>
                 <maxSize>0.27 0.08</maxSize>
                 <origin>0.5 0.5</origin>
-                <path>./logoc.svg</path>
+                <path>./logobc.svg</path>
                 <color>000000</color>
                 <zIndex>52</zIndex>
             </image>
             <image name="logo3">
-                <pos>0.495 0.049</pos>
+                <pos>0.3225 0.071</pos>
                 <maxSize>0.27 0.08</maxSize>
                 <origin>0.5 0.5</origin>
-                <path>./logoc.svg</path>
+                <path>./logobc.svg</path>
                 <color>000000</color>
                 <zIndex>52</zIndex>
             </image>
@@ -413,32 +414,36 @@
                 <pos>.5 0.98</pos>
                 <origin>0.5 1</origin>
                 <fontPath>${primaryFont}</fontPath>
-                <textColor>${secondaryColor}</textColor>
-                <iconColor>${primaryColor}</iconColor>
+                <textColor>${secondaryColor}77</textColor>
+                <iconColor>${primaryColor}77</iconColor>
                 <fontSize>${helpfont}</fontSize>
             </helpsystem>
         </view>
         <view name="gamelist">
             <image name="consolelogo">
-                <pos>0.68 0.081</pos>
+                <pos>0.73 0.076</pos>
                 <maxSize>0.18 0.06</maxSize>
-                <origin>0 .5</origin>
-                <path>./system/logos/system-logo-color/${system.theme}.svg</path>
+                <origin>0.5 .5</origin>
+                <path>./system/logos/system-logo-white/${system.theme}.svg</path>
+                <default>./system/custom/logo/${system.theme}.svg</default>
                 <zIndex>52</zIndex>
+                <color>404040</color>
             </image>
             <image name="consolelogo2">
-                <pos>0.6775 0.0785</pos>
+                <pos>0.7275 0.0735</pos>
                 <maxSize>0.18 0.06</maxSize>
-                <origin>0 0.5</origin>
-                <path>./system/logos/system-logo-color/${system.theme}.svg</path>
+                <origin>0.5 0.5</origin>
+                <path>./system/logos/system-logo-white/${system.theme}.svg</path>                
+                <default>./system/custom/logo/${system.theme}.svg</default>
                 <zIndex>51</zIndex>
                 <color>000000</color>
             </image>
             <image name="consolelogo3">
-                <pos>0.6775 0.076</pos>
+                <pos>0.7275 0.071</pos>
                 <maxSize>0.18 0.06</maxSize>
-                <origin>0 0.5</origin>
-                <path>./system/logos/system-logo-color/${system.theme}.svg</path>
+                <origin>0.5 0.5</origin>
+                <path>./system/logos/system-logo-white/${system.theme}.svg</path>                
+                <default>./system/custom/logo/${system.theme}.svg</default>
                 <zIndex>51</zIndex>
                 <color>000000</color>
             </image>
@@ -451,8 +456,8 @@
                 <lineSpacing>1</lineSpacing>
                 <verticalAlignment>center</verticalAlignment>
                 <horizontalAlignment>right</horizontalAlignment>
-                <color>${primaryColor}</color>
-                <pos>0.345 0.8765</pos>
+                <color>404040</color>
+                <pos>0.4 0.8765</pos>
                 <origin>1 0</origin>
                 <zIndex>52</zIndex>
             </text>
@@ -478,7 +483,7 @@
                 <lineSpacing>1</lineSpacing>
                 <verticalAlignment>center</verticalAlignment>
                 <horizontalAlignment>left</horizontalAlignment>
-                <color>${primaryColor}</color>
+                <color>404040</color>
                 <pos>0.66 0.8765</pos>
                 <origin>0 0</origin>
                 <zIndex>52</zIndex>
@@ -504,7 +509,7 @@
                 <verticalAlignment>center</verticalAlignment>
                 <fontPath>${altFont}</fontPath>
                 <fontSize>0.03</fontSize>
-                <color>${secondaryColor}</color>
+                <color>404040</color>
                 <zIndex>50</zIndex>
             </gamelistinfo>
             <!--<text name="sourceinfo">
@@ -525,8 +530,8 @@
                 <pos>0.5 0.98</pos>
                 <origin>.5 1</origin>
                 <fontPath>${primaryFont}</fontPath>
-                <textColor>${secondaryColor}</textColor>
-                <iconColor>${primaryColor}</iconColor>
+                <textColor>${secondaryColor}77</textColor>
+                <iconColor>${primaryColor}77</iconColor>
                 <fontSize>${helpfont}</fontSize>
             </helpsystem>
         </view>

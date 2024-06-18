@@ -13,7 +13,7 @@
             <path>./core/sounds/back.wav</path>
         </sound>
         <sound name="scroll">
-            <path>./core/sounds/systembrowse.wav</path>
+            <path>./core/sounds/scroll.wav</path>
         </sound>
         <sound name="favorite">
             <path>./core/sounds/favorite.wav</path>
