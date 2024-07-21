@@ -13,7 +13,7 @@
     <include>./system/metadata/${system.theme}.xml</include>
 
     <variables>
-        <spacerimage>./space.png</spacerimage>
+        <spacerimage>./core/images/space.png</spacerimage>
     </variables>
 
     <aspectRatio name="16:9">
@@ -94,7 +94,7 @@
                 <pos>0.325 0.076</pos>
                 <maxSize>0.27 0.08</maxSize>
                 <origin>0.5 0.5</origin>
-                <path>./logobc.svg</path>
+                <path>./core/images/logobc.svg</path>
                 <zIndex>53</zIndex>
                 <color>404040</color>
             </image>
@@ -102,7 +102,7 @@
                 <pos>0.3225 0.0735</pos>
                 <maxSize>0.27 0.08</maxSize>
                 <origin>0.5 0.5</origin>
-                <path>./logobc.svg</path>
+                <path>./core/images/logobc.svg</path>
                 <color>000000</color>
                 <zIndex>52</zIndex>
             </image>
@@ -110,7 +110,7 @@
                 <pos>0.3225 0.071</pos>
                 <maxSize>0.27 0.08</maxSize>
                 <origin>0.5 0.5</origin>
-                <path>./logobc.svg</path>
+                <path>./core/images/logobc.svg</path>
                 <color>000000</color>
                 <zIndex>52</zIndex>
             </image>
@@ -380,7 +380,7 @@
                 <origin>1 0.5</origin>
                 <maxSize>0.3 0.2</maxSize>
                 <imageType>marquee,cover,titlescreen</imageType>
-                <default>./classic.svg</default>
+                <default>./core/images/classic.svg</default>
                 <interpolation>linear</interpolation>
                 <zIndex>40</zIndex>
                 <gameselectorEntry>1</gameselectorEntry>
@@ -390,7 +390,7 @@
                 <origin>0 0.5</origin>
                 <maxSize>0.25 0.25</maxSize>
                 <imageType>screenshot</imageType>
-                <default>./logog.svg</default>
+                <default>./core/images/logog.svg</default>
                 <interpolation>linear</interpolation>
                 <zIndex>39</zIndex>
                 <gameselectorEntry>1</gameselectorEntry>
@@ -450,20 +450,34 @@
             <text name="collectionsSystemName">
                 <metadata>sourceSystemFullname</metadata>
 
-                <size>0.32 0.05</size>
+                <size>0.25 0.05</size>
                 <fontPath>${altFont}</fontPath>
                 <fontSize>${collsys}</fontSize>
                 <lineSpacing>1</lineSpacing>
                 <verticalAlignment>center</verticalAlignment>
-                <horizontalAlignment>right</horizontalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
                 <color>404040</color>
-                <pos>0.4 0.8765</pos>
+                <pos>0.41 0.8765</pos>
                 <origin>1 0</origin>
                 <zIndex>52</zIndex>
             </text>
+            <text name="collectionsSystemName2">
+                <metadata>sourceSystemFullname</metadata>
+
+                <size>0.25 0.05</size>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>${collsys}</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>000000</color>
+                <pos>0.4085 0.874</pos>
+                <origin>1 0</origin>
+                <zIndex>51</zIndex>
+            </text>
             <text name="power">
                 <text>POWERED BY</text>
-                <size>0.27 0.05</size>
+                <size>0.2 0.05</size>
                 <fontPath>${altFont}</fontPath>
                 <fontSize>0.035</fontSize>
                 <lineSpacing>1</lineSpacing>
@@ -475,42 +489,80 @@
                 <origin>.50 0</origin>
                 <zIndex>52</zIndex>
             </text>
+           
             <text name="emulator">
                 <metadata>emulator</metadata>
-                <size>0.27 0.05</size>
+                <size>0.21 0.05</size>
                 <fontPath>${altFont}</fontPath>
                 <fontSize>${collsys}</fontSize>
                 <lineSpacing>1</lineSpacing>
                 <verticalAlignment>center</verticalAlignment>
-                <horizontalAlignment>left</horizontalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
                 <color>404040</color>
-                <pos>0.66 0.8765</pos>
+                <pos>0.6 0.8765</pos>
                 <origin>0 0</origin>
                 <zIndex>52</zIndex>
             </text>
-            <text name="altemulator">
-                <metadata>altemulator</metadata>
-                <size>0.27 0.05</size>
+            <text name="emulator2">
+                <metadata>emulator</metadata>
+                <size>0.21 0.05</size>
                 <fontPath>${altFont}</fontPath>
                 <fontSize>${collsys}</fontSize>
                 <lineSpacing>1</lineSpacing>
                 <verticalAlignment>center</verticalAlignment>
-                <horizontalAlignment>left</horizontalAlignment>
-                <color>${secondaryColor}</color>
-                <pos>0.66 0.8765</pos>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>000000</color>
+                <pos>0.5985 0.874</pos>
+                <origin>0 0</origin>
+                <zIndex>51</zIndex>
+            </text>
+            <text name="altemulator">
+                <metadata>altemulator</metadata>
+                <size>0.21 0.05</size>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>${collsys}</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>${secondaryColor}77</color>
+                <pos>0.6 0.8765</pos>
                 <origin>0 0</origin>
                 <zIndex>53</zIndex>
+            </text>
+            <text name="altemulator2">
+                <metadata>altemulator</metadata>
+                <size>0.21 0.05</size>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>${collsys}</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>center</horizontalAlignment>
+                <color>000000</color>
+                <pos>0.5985 0.874</pos>
+                <origin>0 0</origin>
+                <zIndex>52</zIndex>
             </text>
             <gamelistinfo name="info">
                 <pos>0.95 0.905</pos>
                 <origin>1 0.5</origin>
-                <size>0.2 0.025</size>
-                <horizontalAlignment>right</horizontalAlignment>
+                <size>0.13 0.025</size>
+                <horizontalAlignment>left</horizontalAlignment>
                 <verticalAlignment>center</verticalAlignment>
                 <fontPath>${altFont}</fontPath>
                 <fontSize>0.03</fontSize>
                 <color>404040</color>
                 <zIndex>50</zIndex>
+            </gamelistinfo>
+            <gamelistinfo name="info2">
+                <pos>0.9485 0.9025</pos>
+                <origin>1 0.5</origin>
+                <size>0.13 0.025</size>
+                <horizontalAlignment>left</horizontalAlignment>
+                <verticalAlignment>center</verticalAlignment>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>0.03</fontSize>
+                <color>000000</color>
+                <zIndex>49</zIndex>
             </gamelistinfo>
             <!--<text name="sourceinfo">
                 <size>0.5 0.1</size>
@@ -744,7 +796,7 @@
                 <maxSize>0.55 0.4</maxSize>
                 <origin>0.5 0.5</origin>
                 <imageType>marquee,screenshot</imageType>
-                <defaultImage>./logog.svg</defaultImage>
+                <defaultImage>./core/images/logog.svg</defaultImage>
                 <interpolation>linear</interpolation>
                 <pillarboxes>false</pillarboxes>
                 <pillarboxThreshold>0.85 0.90</pillarboxThreshold>
@@ -782,7 +834,7 @@
                 <zIndex>51</zIndex>
             </badges>
             <image name="rating">
-                <path>./rating.svg</path>
+                <path>./core/images/rating.svg</path>
                 <size>0.06 0.1</size>
                 <pos>0.9565 0.82</pos>
                 <origin>0.5 0.5</origin>
@@ -814,7 +866,7 @@
                 <pos>0 0.4775</pos>
                 <size>1 .4</size>
                 <imageType>cover, physicalmedia</imageType>
-                <defaultImage>./logog.svg</defaultImage>
+                <defaultImage>./core/images/logog.svg</defaultImage>
                 <color>11111100</color>
                 <itemSize>0.16 0.275</itemSize>
                 <itemScale>1.3</itemScale>
@@ -1044,7 +1096,7 @@
                 <imageType>marquee</imageType>
                 <interpolation>linear</interpolation>
                 <pillarboxes>false</pillarboxes>
-                <defaultImage>./logog.svg</defaultImage>
+                <defaultImage>./core/images/logog.svg</defaultImage>
                 <pillarboxThreshold>0.85 0.90</pillarboxThreshold>
                 <delay>1.7</delay>
                 <scrollFadeIn>true</scrollFadeIn>
@@ -1146,8 +1198,10 @@
             <itemSpacing>0 0</itemSpacing>
             <origin>0 0</origin>
             <imageType>marquee</imageType>
+            <backgroundColor>FFFFFF</backgroundColor>
             <imageRelativeScale>0.85</imageRelativeScale>
             <selectorImage>./core/images/syssel.png</selectorImage>
+            <selectorColor>FFFFFF</selectorColor>
             <selectorLayer>middle</selectorLayer>
             <fractionalRows>true</fractionalRows>
             <backgroundImage>./core/banner/background.png</backgroundImage>
@@ -1165,7 +1219,7 @@
             <imageType>titlescreen, screenshot</imageType>
             <interpolation>linear</interpolation>
             <pillarboxes>false</pillarboxes>
-            <defaultImage>./logog.svg</defaultImage>
+            <defaultImage>./core/images/logog.svg</defaultImage>
             <pillarboxThreshold>0.85 0.90</pillarboxThreshold>
             <delay>1.7</delay>
             <scrollFadeIn>true</scrollFadeIn>

@@ -48,12 +48,13 @@
         <label>RetroDeck</label>
     </colorScheme>
 
-    <variant name="textlist">
-        <label>Textlist</label>
-        <selectable>true</selectable>
-    </variant>
+   
     <variant name="carousel">
         <label>Cover Carousel</label>
+        <selectable>true</selectable>
+    </variant>
+    <variant name="textlist">
+        <label>Textlist</label>
         <selectable>true</selectable>
     </variant>
     <variant name="grid">
