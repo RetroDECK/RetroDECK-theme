@@ -795,7 +795,7 @@
                 <pos>0.6225 0.375</pos>
                 <maxSize>0.55 0.4</maxSize>
                 <origin>0.5 0.5</origin>
-                <imageType>marquee,screenshot</imageType>
+                <imageType>marquee,screenshot, miximage</imageType>
                 <defaultImage>./core/images/logog.svg</defaultImage>
                 <interpolation>linear</interpolation>
                 <pillarboxes>false</pillarboxes>
@@ -1216,7 +1216,7 @@
             <pos>0.75 0.47</pos>
             <maxSize>0.48 0.46</maxSize>
             <origin>0.5 0.5</origin>
-            <imageType>titlescreen, screenshot</imageType>
+            <imageType>titlescreen, screenshot, miximage</imageType>
             <interpolation>linear</interpolation>
             <pillarboxes>false</pillarboxes>
             <defaultImage>./core/images/logog.svg</defaultImage>
