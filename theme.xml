@@ -403,7 +403,7 @@
                 <fontPath>${altFont}</fontPath>
                 <fontSize>0.035</fontSize>
                 <lineSpacing>1</lineSpacing>
-                <letterCase>upperCase</letterCase>
+                <letterCase>uppercase</letterCase>
                 <verticalAlignment>center</verticalAlignment>
                 <horizontalAlignment>center</horizontalAlignment>
                 <color>000000</color>
@@ -483,7 +483,7 @@
                 <fontPath>${altFont}</fontPath>
                 <fontSize>0.035</fontSize>
                 <lineSpacing>1</lineSpacing>
-                <letterCase>upperCase</letterCase>
+                <letterCase>uppercase</letterCase>
                 <verticalAlignment>center</verticalAlignment>
                 <horizontalAlignment>center</horizontalAlignment>
                 <color>000000</color>
@@ -1096,7 +1096,7 @@
                 <pos>0.815 0.32</pos>
                 <maxSize>0.35 0.36</maxSize>
                 <origin>0.5 0.5</origin>
-                <imageType>marquee</imageType>
+                <imageType>marquee, screenshot</imageType>
                 <interpolation>linear</interpolation>
                 <pillarboxes>false</pillarboxes>
                 <defaultImage>./core/images/logog.svg</defaultImage>
