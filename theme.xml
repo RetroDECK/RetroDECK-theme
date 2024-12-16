@@ -450,8 +450,8 @@
                 <color>000000</color>
             </image>
             <text name="collectionsSystemName">
-                <metadata>sourceSystemFullname</metadata>
-
+                <!--<metadata>sourceSystemFullname</metadata>-->
+                <text>${systemName}</text>
                 <size>0.25 0.05</size>
                 <fontPath>${altFont}</fontPath>
                 <fontSize>${collsys}</fontSize>
@@ -464,8 +464,8 @@
                 <zIndex>52</zIndex>
             </text>
             <text name="collectionsSystemName2">
-                <metadata>sourceSystemFullname</metadata>
-
+                <!--<metadata>sourceSystemFullname</metadata>-->
+                <text>${systemName}</text>
                 <size>0.25 0.05</size>
                 <fontPath>${altFont}</fontPath>
                 <fontSize>${collsys}</fontSize>
