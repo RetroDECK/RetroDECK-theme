@@ -1,0 +1,1738 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58332 264.58333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="faveback.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.31380208"
+     inkscape:cx="393.56017"
+     inkscape:cy="584.76349"
+     inkscape:window-width="958"
+     inkscape:window-height="1000"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3310">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.45544553"
+         id="stop3306" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3308" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3446">
+      <path
+         id="path3448"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3446-9">
+      <path
+         id="path3448-9"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-0"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-1"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-1">
+      <path
+         id="path771"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-1"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3446-1">
+      <path
+         id="path3448-3"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-4"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-2"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-2">
+      <path
+         id="path801"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-2"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3446-5">
+      <path
+         id="path3448-97"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-46"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-7"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-7">
+      <path
+         id="path831"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-7"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3446-2">
+      <path
+         id="path3448-1"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-44"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-4"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3446-2-3">
+      <path
+         id="path3448-1-9"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-44-5"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-4-9"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-7-8">
+      <path
+         id="path831-7"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-7-5"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-7-6"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-2-3">
+      <path
+         id="path801-7"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-2-9"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-2-1"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-1-2">
+      <path
+         id="path771-5"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-1-0"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-1-6"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3446-4">
+      <path
+         id="path3448-8"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-9"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-3"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-4">
+      <path
+         id="path895"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-4-3"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-4-9">
+      <path
+         id="path993"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-4-9"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-7-6">
+      <path
+         id="path998"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-7-6"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-2-1">
+      <path
+         id="path1003"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-2-1"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-1-6">
+      <path
+         id="path1008"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-1-6"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-3">
+      <path
+         id="path1013"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-3"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3446-7">
+      <path
+         id="path3448-7"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-19"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-1-29">
+      <path
+         id="path771-3"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-1-9"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-1-1"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-2-0">
+      <path
+         id="path801-9"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-2-91"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-2-5"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-7-1">
+      <path
+         id="path831-9"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-7-62"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-7-2"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3446-2-1">
+      <path
+         id="path3448-1-6"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-44-1"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-4-2"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-3-4">
+      <path
+         id="path1013-6"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-3-7"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-3-0"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-1-6-4">
+      <path
+         id="path1008-1"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-1-6-9"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-1-6-3"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-2-1-0">
+      <path
+         id="path1003-8"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-2-1-6"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-2-1-1"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-7-6-4">
+      <path
+         id="path998-6"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-7-6-0"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-7-6-5"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-4-9-5">
+      <path
+         id="path993-0"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-4-9-3"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-4-9-4"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-4-0">
+      <path
+         id="path1081"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-4-7"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25">
+      <path
+         id="path1254"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-1-1">
+      <path
+         id="path1259"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-1-1"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-2-5">
+      <path
+         id="path1264"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-2-5"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-7-2">
+      <path
+         id="path1269"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-7-2"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-4-2">
+      <path
+         id="path1274"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-4-2"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-3-0">
+      <path
+         id="path1279"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-3-0"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-1-6-3">
+      <path
+         id="path1284"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-1-6-3"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-2-1-1">
+      <path
+         id="path1289"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-2-1-1"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-7-6-5">
+      <path
+         id="path1294"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-7-6-5"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-4-9-4">
+      <path
+         id="path1299"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-4-9-4"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-7">
+      <path
+         id="path1254-2"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-1"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-5"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-5">
+      <path
+         id="path1351"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-5"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-78">
+      <path
+         id="path1254-8"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-6"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-0"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-0">
+      <path
+         id="path1381"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-0"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-8">
+      <path
+         id="path1254-9"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-4"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-3"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-3">
+      <path
+         id="path1411"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-3"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-2">
+      <path
+         id="path1254-0"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-2"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-6"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-9">
+      <path
+         id="path1254-09"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-15"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-67"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-67">
+      <path
+         id="path1466"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-67"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-58">
+      <path
+         id="path1254-4"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-9"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-7"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1500">
+      <path
+         id="path1496"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-7"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-31">
+      <path
+         id="path1254-43"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-58"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-1"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-05">
+      <path
+         id="path1254-94"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-60"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-59"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-59">
+      <path
+         id="path1552"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-59"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-0-0">
+      <path
+         id="path1381-2"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-0-2"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-0-6"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-3-6">
+      <path
+         id="path1411-8"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-3-9"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-3-9"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-2-7">
+      <path
+         id="path1254-0-3"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-2-5"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-6-4"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-67-9">
+      <path
+         id="path1466-9"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-67-1"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-67-1"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-7-3">
+      <path
+         id="path1254-2-6"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-1-4"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-7-5"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-31-0">
+      <path
+         id="path1254-43-1"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-58-5"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-1-4"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-59-7">
+      <path
+         id="path1552-1"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-59-5"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-59-9"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-6">
+      <path
+         id="path1601"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-6-4"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1610">
+      <path
+         id="path1606"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-7-7"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-0-6">
+      <path
+         id="path1744"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-0-6"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-7-5">
+      <path
+         id="path1749"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-7-5"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-59-9">
+      <path
+         id="path1754"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-59-9"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-0-6-8">
+      <path
+         id="path1744-9"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-0-6-9"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3450-25-0-6-2"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect3450-25-0-6-2">
+      <path
+         id="path1803"
+         d="M 148.03663,190.055 H 258.83637 V 335.13529 H 148.03663 Z"
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lpe_path-effect3450-25-0-6-2"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.811516"
+         class="powerclip"
+         d="M -5.0000055,47.35938 H 941.99999 V 805 H -5.0000055 Z M 148.03663,190.055 V 335.13529 H 258.83637 V 190.055 Z"
+         sodipodi:nodetypes="cccccccccc" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3310"
+       id="linearGradient3312"
+       x1="338.4306"
+       y1="22.286036"
+       x2="709.32629"
+       y2="531.68317"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1845"
+       style="fill-opacity:1;fill:url(#linearGradient3312)">
+      <path
+         id="rect3338"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,-1.403174,-1.6654775)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipPath3446)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450" />
+      <path
+         id="rect3338-4"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,25.337529,-1.6654775)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-1)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-1" />
+      <path
+         id="rect3338-3"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,52.078233,-1.6654775)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-2)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-2" />
+      <path
+         id="rect3338-5"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,78.818937,-1.6654775)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-7)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-7" />
+      <path
+         id="rect3338-8"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,105.55963,-1.6654775)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipPath3446-2)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-4" />
+      <path
+         id="rect3338-56"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,132.30033,-1.6654775)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-3)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-3" />
+      <path
+         id="rect3338-4-7"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,159.04103,-1.6654775)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-1-6)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-1-6" />
+      <path
+         id="rect3338-3-3"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,185.78173,-1.6654775)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-2-1)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-2-1" />
+      <path
+         id="rect3338-5-3"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,212.52244,-1.6654775)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-7-6)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-7-6" />
+      <path
+         id="rect3338-8-4"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,239.26314,-1.6654775)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-4-9)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-4-9" />
+      <path
+         id="rect3338-48"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,-0.9764303,237.85956)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25" />
+      <path
+         id="rect3338-4-6"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,25.764273,237.85956)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-1-1)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-1-1" />
+      <path
+         id="rect3338-3-0"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,52.504974,237.85956)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-2-5)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-2-5" />
+      <path
+         id="rect3338-5-2"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,79.245684,237.85956)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-7-2)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-7-2" />
+      <path
+         id="rect3338-8-9"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,105.98637,237.85956)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-4-2)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-4-2" />
+      <path
+         id="rect3338-56-3"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,132.72707,237.85956)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-3-0)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-3-0" />
+      <path
+         id="rect3338-4-7-9"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,159.46777,237.85956)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-1-6-3)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-1-6-3" />
+      <path
+         id="rect3338-3-3-4"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,186.20847,237.85956)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-2-1-1)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-2-1-1" />
+      <path
+         id="rect3338-5-3-6"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,212.94918,237.85956)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-7-6-5)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-7-6-5" />
+      <path
+         id="rect3338-8-4-4"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,239.68988,237.85956)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-4-9-4)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-4-9-4" />
+      <path
+         id="rect3338-48-9"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,-0.976428,211.51539)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-5)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-5" />
+      <path
+         id="rect3338-48-5"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,-0.976428,185.17122)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-0)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-0" />
+      <path
+         id="rect3338-48-93"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,-0.976428,158.82705)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-3)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-3" />
+      <path
+         id="rect3338-48-52"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,-0.976428,132.48288)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-2)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-6" />
+      <path
+         id="rect3338-48-2"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,-0.976428,106.1212)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-67)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-67" />
+      <path
+         id="rect3338-48-0"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,-0.976428,79.75952)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-7)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-7" />
+      <path
+         id="rect3338-48-4"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,-0.976428,51.958977)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-31)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-1" />
+      <path
+         id="rect3338-48-8"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,-1.403174,25.14675)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-59)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-59" />
+      <path
+         id="rect3338-48-5-4"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,239.83107,184.99427)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-0-6)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-0-6" />
+      <path
+         id="rect3338-48-93-3"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,239.83107,158.6501)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-3-6)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-3-9" />
+      <path
+         id="rect3338-48-52-6"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,239.83107,132.30593)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-6)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-6-4" />
+      <path
+         id="rect3338-48-2-5"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,239.83107,105.94425)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-67-9)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-67-1" />
+      <path
+         id="rect3338-48-0-1"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,239.83107,79.582574)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-7-5)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-7-5" />
+      <path
+         id="rect3338-48-4-1"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,239.83107,51.782031)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-31-0)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-1-4" />
+      <path
+         id="rect3338-48-8-8"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,239.40433,24.969804)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-59-9)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-59-9" />
+      <path
+         id="rect3338-48-5-4-5"
+         style="fill:url(#linearGradient3312);fill-opacity:1;stroke:none;stroke-width:25.307;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         transform="matrix(0.02823728,0,0,0.03538911,239.83107,211.35595)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         clip-path="url(#clipath_lpe_path-effect3450-25-0-6-2)"
+         inkscape:original-d="M -5.490246e-6,800 H 936.99999 Z M 186.99413,52.35938 v 27.433593 38.888677 h -38.89062 -31.12109 v 31.68164 38.88867 H 78.091791 51.542963 v 203.35156 h 27.759766 38.890621 v 38.89062 31.65235 h 31.14844 38.89063 v 38.88867 31.85937 h 31.85742 38.89062 v 38.89063 31.17578 h 31.11914 38.89063 v 38.88867 31.06446 h 31.65234 38.89063 v 38.89257 34.30664 h 132.30664 v -35.13281 -38.89062 h 38.89257 32.35352 v -31.17969 -38.89063 h 38.89063 31.83203 v -31.82617 -38.89062 h 38.88867 31.12109 v -31.6543 -38.89062 h 38.89063 31.65234 v -31.14844 -38.89063 h 38.88867 33.06641 V 187.8379 H 852.18945 813.29687 V 148.94727 117.1211 H 781.5332 742.64452 V 78.230473 52.535161 H 609.62499 v 26.902344 38.890625 h -38.89062 -31.67969 v 30.26562 38.88868 H 500.1621 430.15234 391.26171 V 148.59375 117.44532 H 359.60937 320.71874 V 78.554692 52.35938 Z"
+         inkscape:path-effect="#path-effect3450-25-0-6-2" />
+    </g>
+  </g>
+</svg>

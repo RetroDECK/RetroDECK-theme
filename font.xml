@@ -10,7 +10,7 @@
         <fontSize name="medium">
             <variables>
                 <sysfont>0.06</sysfont>
-                <helpfont>0.0225</helpfont>
+                <helpfont>0.03</helpfont>
                 <helpfont43>0.0225</helpfont43>
                 <cartext>0.03</cartext>
                 <metaDesc>0.025</metaDesc>
@@ -24,7 +24,7 @@
         <fontSize name="large">
             <variables>
                 <sysfont>0.06</sysfont>
-                <helpfont>0.028</helpfont>
+                <helpfont>0.035</helpfont>
                 <helpfont43>0.025</helpfont43>
                 <cartext>0.04</cartext>
                 <metaDesc>0.0375</metaDesc>

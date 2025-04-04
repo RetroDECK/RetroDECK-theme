@@ -26,6 +26,54 @@
 
     <variant name="all">
         <view name="system, gamelist">
+        
+        <systemstatus name="menustatus1">
+        <pos>0.935 0.078</pos>
+        <origin>1 0</origin>
+        <color>404040</color>
+        <entries>all</entries>
+        <customIcon icon="icon_bluetooth">./core/images/icon-bluetooth.svg</customIcon>
+         <customIcon icon="icon_wifi">./core/images/icon-wifi.svg</customIcon>
+         <customIcon icon="icon_cellular">./core/images/icon-cellular.svg</customIcon>
+         <customIcon icon="icon_battery_charging">./core/images/icon-battery-charging.svg</customIcon>
+         <customIcon icon="icon_battery_full">./core/images/icon-battery-full.svg</customIcon>
+         <customIcon icon="icon_battery_high">./core/images/icon-battery-high.svg</customIcon>
+         <customIcon icon="icon_battery_medium">./core/images/icon-battery-medium.svg</customIcon>
+         <customIcon icon="icon_battery_low">./core/images/icon-battery-low.svg</customIcon>
+            <fontPath>${altFont}</fontPath>
+            <height>0.03</height>
+        </systemstatus>
+        <systemstatus name="menu 2">
+        <pos>0.93 0.073</pos>
+        <origin>1 0</origin>
+        <color>111111</color>
+        <entries>all</entries>
+        <customIcon icon="icon_bluetooth">./core/images/icon-bluetooth.svg</customIcon>
+         <customIcon icon="icon_wifi">./core/images/icon-wifi.svg</customIcon>
+         <customIcon icon="icon_cellular">./core/images/icon-cellular.svg</customIcon>
+         <customIcon icon="icon_battery_charging">./core/images/icon-battery-charging.svg</customIcon>
+         <customIcon icon="icon_battery_full">./core/images/icon-battery-full.svg</customIcon>
+         <customIcon icon="icon_battery_high">./core/images/icon-battery-high.svg</customIcon>
+         <customIcon icon="icon_battery_medium">./core/images/icon-battery-medium.svg</customIcon>
+         <customIcon icon="icon_battery_low">./core/images/icon-battery-low.svg</customIcon>
+        <fontPath>${altFont}</fontPath>
+            <height>0.03</height>
+        </systemstatus>
+        <clock name="menuclock">
+            <fontSize>0.04</fontSize>
+            <rotation>0</rotation>
+            <pos>0.0925 0.0520825</pos>
+            <size>0.06 0.03</size>
+            <origin>0.5 0</origin>
+            <fontPath>${altFont}</fontPath>
+            <backgroundColor>111111</backgroundColor>
+            <backgroundCornerRadius>0.5</backgroundCornerRadius>
+            <backgroundHorizontalPadding>0.02 0.02</backgroundHorizontalPadding>
+            <backgroundVerticalPadding>0.005 0.005</backgroundVerticalPadding>
+            <horizontalAlignment>center</horizontalAlignment>
+            <verticalAlignment>center</verticalAlignment>
+            <color>404040</color>
+        </clock>
             <image name="bottom">
                 <pos>0 .875</pos>
                 <size>1 .125</size>
@@ -415,6 +463,7 @@
             <helpsystem name="help">
                 <pos>.5 0.98</pos>
                 <origin>0.5 1</origin>
+                <entryRelativeScale>0.7</entryRelativeScale>
                 <fontPath>${primaryFont}</fontPath>
                 <textColor>${secondaryColor}77</textColor>
                 <iconColor>${primaryColor}77</iconColor>
@@ -584,6 +633,7 @@
             <helpsystem name="help">
                 <pos>0.5 0.98</pos>
                 <origin>.5 1</origin>
+                <entryRelativeScale>0.7</entryRelativeScale>
                 <fontPath>${primaryFont}</fontPath>
                 <textColor>${secondaryColor}77</textColor>
                 <iconColor>${primaryColor}77</iconColor>
@@ -1093,8 +1143,8 @@
                 <zIndex>50</zIndex>
             </text>
             <video name="md_video">
-                <pos>0.815 0.32</pos>
-                <maxSize>0.35 0.36</maxSize>
+                <pos>0.785 0.32</pos>
+                <maxSize>0.33 0.36</maxSize>
                 <origin>0.5 0.5</origin>
                 <imageType>marquee, screenshot</imageType>
                 <interpolation>linear</interpolation>
@@ -1188,7 +1238,62 @@
                 <origin>0.5 0</origin>
                 <zIndex>50</zIndex>
             </text>
-            
+            <badges name="all">
+                <pos>0.975 0.135</pos>
+                <origin>0.5 0</origin>
+                <size>0.04 .375</size>
+                <direction>column</direction>
+                <lines>1</lines>
+                <itemsPerLine>6</itemsPerLine>
+                <itemMargin>0.001 0.001</itemMargin>
+                <horizontalAlignment>center</horizontalAlignment>
+                <slots>controller, completed, favorite, altemulator, kidgame,manual</slots>
+                <controllerPos>0.5 0.43</controllerPos>
+                <controllerSize>0.85</controllerSize>
+                <folderLinkSize>0.5 0.3</folderLinkSize>
+                <folderLinkPos>0.5 0.44</folderLinkPos>
+                <folderLinkIconColor>${backgroundColor}</folderLinkIconColor>
+                <customFolderLinkIcon>./core/badges/link.png</customFolderLinkIcon>
+                <badgeIconColor>${primaryColor}</badgeIconColor>
+                <customBadgeIcon badge="manual">./core/badges/manual.png</customBadgeIcon>
+                <customBadgeIcon badge="folder">./core/badges/folder.png</customBadgeIcon>
+                <customBadgeIcon badge="broken">./core/badges/broken.png</customBadgeIcon>
+                <customBadgeIcon badge="kidgame">./core/badges/kid.png</customBadgeIcon>
+                <customBadgeIcon badge="collection">./core/badges/collect.png</customBadgeIcon>
+                <customBadgeIcon badge="altemulator">./core/badges/alt.png</customBadgeIcon>
+                <customBadgeIcon badge="favorite">./core/badges/fave.png</customBadgeIcon>
+                <customBadgeIcon badge="completed">./core/badges/complete.png</customBadgeIcon>
+                <customBadgeIcon badge="controller">./core/badges/control.png</customBadgeIcon>
+                <zIndex>51</zIndex>
+            </badges>
+            <badges name="all3">
+                <pos>0.4625 0.325</pos>
+                <origin>0.5 0.5</origin>
+                <size>0.025 .025</size>
+                <direction>column</direction>
+                <lines>1</lines>
+                <itemsPerLine>1</itemsPerLine>
+                <horizontalAlignment>center</horizontalAlignment>
+                <slots>favorite</slots>
+                <badgeIconColor>${primaryColor}</badgeIconColor>
+                
+                <customBadgeIcon badge="favorite">./core/images/rating_filled.svg</customBadgeIcon>
+                 <zIndex>51</zIndex>
+            </badges>
+            <badges name="all2">
+                <pos>0.535 0.325</pos>
+                <origin>0.5 0.5</origin>
+                <size>0.025 .025</size>
+                <direction>column</direction>
+                <lines>1</lines>
+                <itemsPerLine>1</itemsPerLine>
+                <horizontalAlignment>center</horizontalAlignment>
+                <slots>favorite</slots>
+                <badgeIconColor>${primaryColor}</badgeIconColor>
+                
+                <customBadgeIcon badge="favorite">./core/images/rating_filled.svg</customBadgeIcon>
+                 <zIndex>51</zIndex>
+            </badges>
         </view>
     </variant>
 
