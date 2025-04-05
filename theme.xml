@@ -163,6 +163,14 @@
                 <color>000000</color>
                 <zIndex>52</zIndex>
             </image>
+            <image name="background">
+                <pos>0 0</pos>
+                <size>1 1</size>
+                <origin>0 0</origin>
+                <path>./core/images/space.png</path>
+                <color>${backgroundColor}</color>
+                <zIndex>0</zIndex>
+            </image>
         </view>
 
 
@@ -428,20 +436,21 @@
                 <pos>0.56 0.3725</pos>
                 <origin>1 0.5</origin>
                 <maxSize>0.3 0.2</maxSize>
-                <imageType>marquee,cover,titlescreen</imageType>
+                <imageType>marquee</imageType>
                 <default>./core/images/classic.svg</default>
                 <interpolation>linear</interpolation>
                 <zIndex>40</zIndex>
                 <gameselectorEntry>1</gameselectorEntry>
             </image>
+            
             <image name="gamecount3">
                 <pos>0.5 0.3475</pos>
                 <origin>0 0.5</origin>
                 <maxSize>0.25 0.25</maxSize>
-                <imageType>screenshot</imageType>
+                <imageType>screenshot,cover,titlescreen</imageType>
                 <default>./core/images/logog.svg</default>
                 <interpolation>linear</interpolation>
-                <zIndex>39</zIndex>
+                <zIndex>38</zIndex>
                 <gameselectorEntry>1</gameselectorEntry>
             </image>
             

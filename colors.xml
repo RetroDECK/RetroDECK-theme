@@ -1,9 +1,24 @@
 <theme>
     
-    <colorScheme name="retrodeck">
+    <colorScheme name="dark">
         <variables>
-            <colorSchemeName>elep</colorSchemeName>
             <backgroundColor>151515</backgroundColor>
+            <sysColor>c8c9c7</sysColor>
+            <systextColor>111111</systextColor>
+            <selectTextColor>52307c</selectTextColor>
+            <sysmenuColor>270e59</sysmenuColor>
+            <primaryColor>c758e6</primaryColor>
+            <textColor>c758FF</textColor>
+            <secondaryColor>1b9fff</secondaryColor>
+            <selectgameColor>1b9fff</selectgameColor>
+            <gamegridColor>52307c</gamegridColor>
+            <selectsysColor>c758e6</selectsysColor>  
+            <helpColor>111111</helpColor>
+        </variables>
+    </colorScheme>
+    <colorScheme name="light">
+        <variables>
+            <backgroundColor>404040</backgroundColor>
             <sysColor>c8c9c7</sysColor>
             <systextColor>111111</systextColor>
             <selectTextColor>52307c</selectTextColor>
