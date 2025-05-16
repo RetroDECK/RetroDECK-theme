@@ -60,15 +60,15 @@
             <height>0.03</height>
         </systemstatus>
         <clock name="menuclock">
-            <fontSize>0.04</fontSize>
+            <fontSize>0.035</fontSize>
             <rotation>0</rotation>
             <pos>0.0925 0.0520825</pos>
-            <size>0.06 0.03</size>
+            <size>0.0625 0.03</size>
             <origin>0.5 0</origin>
             <fontPath>${altFont}</fontPath>
             <backgroundColor>111111</backgroundColor>
             <backgroundCornerRadius>0.5</backgroundCornerRadius>
-            <backgroundHorizontalPadding>0.02 0.02</backgroundHorizontalPadding>
+            <backgroundHorizontalPadding>0.015 0.015</backgroundHorizontalPadding>
             <backgroundVerticalPadding>0.005 0.005</backgroundVerticalPadding>
             <horizontalAlignment>center</horizontalAlignment>
             <verticalAlignment>center</verticalAlignment>
