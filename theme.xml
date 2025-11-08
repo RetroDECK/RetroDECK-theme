@@ -508,31 +508,59 @@
                 <color>000000</color>
             </image>
             <text name="collectionsSystemName">
-                <!--<metadata>sourceSystemFullname</metadata>-->
-                <text>${systemName}</text>
-                <size>0.25 0.05</size>
+                <metadata>playtime</metadata>
+                <size>0.1 0.05</size>
                 <fontPath>${altFont}</fontPath>
                 <fontSize>${collsys}</fontSize>
+                <defaultValue>${langLabelNever}</defaultValue>
                 <lineSpacing>1</lineSpacing>
                 <verticalAlignment>center</verticalAlignment>
-                <horizontalAlignment>center</horizontalAlignment>
+                <horizontalAlignment>right</horizontalAlignment>
                 <color>404040</color>
-                <pos>0.41 0.8765</pos>
+                <pos>0.28 0.8765</pos>
                 <origin>1 0</origin>
                 <zIndex>52</zIndex>
             </text>
             <text name="collectionsSystemName2">
-                <!--<metadata>sourceSystemFullname</metadata>-->
-                <text>${systemName}</text>
-                <size>0.25 0.05</size>
+                <metadata>playtime</metadata>
+                <size>0.1 0.05</size>
                 <fontPath>${altFont}</fontPath>
                 <fontSize>${collsys}</fontSize>
+                <defaultValue>${langLabelNever}</defaultValue>
                 <lineSpacing>1</lineSpacing>
                 <verticalAlignment>center</verticalAlignment>
-                <horizontalAlignment>center</horizontalAlignment>
+                <horizontalAlignment>right</horizontalAlignment>
                 <color>000000</color>
-                <pos>0.4085 0.874</pos>
+                <pos>0.2785 0.874</pos>
                 <origin>1 0</origin>
+                <zIndex>51</zIndex>
+            </text>
+            <text name="collectionsSystemName4">
+                <text>${langLabelPlayed}</text>
+                <size>0.1 0.05</size>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>${collsys}</fontSize>
+                <defaultValue>${langLabelNever}</defaultValue>
+                <lineSpacing>1</lineSpacing>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>left</horizontalAlignment>
+                <color>404040</color>
+                <pos>0.285 0.8765</pos>
+                <origin>0 0</origin>
+                <zIndex>52</zIndex>
+            </text>
+            <text name="collectionsSystemName3">
+                <text>${langLabelPlayed}</text>
+                <size>0.1 0.05</size>
+                <fontPath>${altFont}</fontPath>
+                <fontSize>${collsys}</fontSize>
+                <defaultValue>${langLabelNever}</defaultValue>
+                <lineSpacing>1</lineSpacing>
+                <verticalAlignment>center</verticalAlignment>
+                <horizontalAlignment>left</horizontalAlignment>
+                <color>000000</color>
+                <pos>0.2835 0.874</pos>
+                <origin>0 0</origin>
                 <zIndex>51</zIndex>
             </text>
             <text name="power">
