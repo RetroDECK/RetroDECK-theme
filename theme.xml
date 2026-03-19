@@ -957,6 +957,7 @@
                 <size>1 .4</size>
                 <imageType>cover, physicalmedia, screenshot</imageType>
                 <defaultImage>./core/images/logog.svg</defaultImage>
+                <defaultFolderImage>./core/images/folder.svg</defaultFolderImage>
                 <color>11111100</color>
                 <itemSize>0.16 0.275</itemSize>
                 <itemScale>1.3</itemScale>
