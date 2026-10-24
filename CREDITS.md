@@ -1,7 +1,12 @@
-The RetroDECK Theme
+# The RetroDECK ES-DE Theme
 
-Is a remix of 'Mini Banners' by DerSchlachter of launchbox fame, Dan Patrick and Weestuarty.
+The RetroDECK Theme is a remix of **Mini Banners**, featuring artwork and graphics by:
 
-This theme has been developed with support (and patience) from the RetroDECK Team.
+- DerSchlachter
+- Dan Patrick
+- Weestuarty
 
-Some logotype graphics by Dan Patrick, Weestuarty, DerSchlachter, Lazorne.
+This remixed theme also includes additional artwork and graphics created by:
+
+- RetroDECK Team
+- Weestuarty
