@@ -12,8 +12,8 @@ Some logotype graphics by Dan Patrick, Weestuarty, DerSchlachter, RetroDECK Team
 
 ### Additional System Support
 
-RetroDECK Features more systems then standard ES-DE support.
+RetroDECK supports more systems than standard ES-DE and this theme includes additional artwork for those extra systems. 
 
-**Read more here:**
+If you'd like to learn about RetroDECKs system additions or if you want to integrate RetroDECK supported systems into your own theme **read more here:**
 
 [RetroDECK Wiki - ES-DE: Creating RetroDECK Theme](https://retrodeck.readthedocs.io/en/latest/wiki_development/es-de/es-de-retrodeck-themes/)
