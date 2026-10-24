@@ -1,7 +1,19 @@
-## The RetroDECK Theme
+# The RetroDECK ES-DE Theme
 
-Is a remix of 'Mini Banners' by DerSchlachter, Dan Patrick and Weestuarty.
+The RetroDECK Theme is a remix of **Mini Banners** by:
 
-This theme has been developed with support from the RetroDECK Team and Weestuarty
+- DerSchlachter
+- Dan Patrick
+- Weestuarty
 
-Some logotype graphics by Dan Patrick, Weestuarty, DerSchlachter, Lazorne.
+This remixed theme has been developed with the RetroDECK Team and Weestuarty.
+
+Some logotype graphics by Dan Patrick, Weestuarty, DerSchlachter, RetroDECK Team.
+
+### Additional System Support
+
+RetroDECK Features more systems then standard ES-DE support.
+
+**Read more here:**
+
+[RetroDECK Wiki - ES-DE: Creating RetroDECK Theme](https://retrodeck.readthedocs.io/en/latest/wiki_development/es-de/es-de-retrodeck-themes/)
